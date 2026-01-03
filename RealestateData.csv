@@ -1,0 +1,1001 @@
+brokered_by,status,price,bed,bath,acre_lot,street,city,state,zip_code,house_size,prev_sold_date
+18916,for_sale,250328,2,1,NULL,303294,"Fort Lauderdale",Florida,33305,725,43220
+89851,for_sale,675000,2,1,0.21,,"Fort Lauderdale",Florida,33305,1380,35949
+30807,for_sale,799000,3,3,0.22,461430,"Fort Lauderdale",Florida,33305,2327,
+81319,for_sale,155000,1,1,NULL,198324,"Wilton Manors",Florida,33305,750,38635
+24160,for_sale,269000,1,2,NULL,578456,"Wilton Manors",Florida,33305,750,43875
+58713,for_sale,459000,2,2,NULL,699545,"Fort Lauderdale",Florida,33305,1425,42552
+18916,for_sale,600328,3,2,0.14,35328,"Fort Lauderdale",Florida,33305,1471,34821
+65393,for_sale,719000,2,2,0.18,,"Fort Lauderdale",Florida,33305,1411,
+95341,for_sale,649000,3,2,0.15,526449,"Fort Lauderdale",Florida,33305,1485,43941
+81010,for_sale,999501,4,3,0.23,850142,"Fort Lauderdale",Florida,33305,2180,
+103279,for_sale,415000,2,2,NULL,699542,"Fort Lauderdale",Florida,33305,1425,36775
+16829,for_sale,499999,2,2,NULL,1565035,"Wilton Manors",Florida,33305,1250,44182
+54228,for_sale,850000,2,1,0.14,1726108,"Wilton Manors",Florida,33305,728,44530
+70546,for_sale,989000,4,3,0.16,705951,"Wilton Manors",Florida,33305,2224,43928
+54228,for_sale,489000,2,2,NULL,544603,"Fort Lauderdale",Florida,33305,1196,44564
+28955,for_sale,6749000,5,7,0.24,937594,"Fort Lauderdale",Florida,33305,7534,33658
+44767,for_sale,1999990,3,4,0.18,1793304,"Fort Lauderdale",Florida,33305,4008,44483
+18916,for_sale,1200000,3,2,0.23,815644,"Fort Lauderdale",Florida,33305,1974,36432
+30807,for_sale,1499950,2,3,0.18,683367,"Wilton Manors",Florida,33305,2551,34396
+339,for_sale,245000,1,1,NULL,236992,"Wilton Manors",Florida,33305,750,41260
+54228,for_sale,999000,3,2,0.16,678448,"Wilton Manors",Florida,33305,1468,
+53364,for_sale,829000,3,2,0.17,485596,"Fort Lauderdale",Florida,33305,1463,42089
+58713,for_sale,750000,2,2,NULL,657550,"Fort Lauderdale",Florida,33305,1404,41471
+8010,for_sale,2150000,3,3,NULL,657547,"Fort Lauderdale",Florida,33305,2341,
+70271,for_sale,3589000,5,6,0.23,878314,"Fort Lauderdale",Florida,33305,4425,42978
+30807,for_sale,2500000,4,4,0.22,772567,"Fort Lauderdale",Florida,33305,3223,44236
+30807,for_sale,7300000,8,9,0.21,932001,"Fort Lauderdale",Florida,33305,6893,44377
+49002,for_sale,1400000,3,3,0.29,1233336,"Wilton Manors",Florida,33305,2240,41982
+16829,for_sale,2450000,3,3,0.21,1018604,"Fort Lauderdale",Florida,33305,2208,43496
+70271,for_sale,2499000,4,3,0.23,858256,"Fort Lauderdale",Florida,33305,3350,43907
+5121,for_sale,1985000,3,3,NULL,663950,"Fort Lauderdale",Florida,33305,2623,41501
+18916,for_sale,900000,4,4,NULL,449496,"Fort Lauderdale",Florida,33305,2318,41187
+28392,for_sale,9500000,3,4,0.41,865538,"Fort Lauderdale",Florida,33305,5298,35312
+75851,for_sale,1999000,3,3,0.21,769759,"Fort Lauderdale",Florida,33305,1908,41379
+65375,for_sale,1675000,3,2,0.2,702467,"Fort Lauderdale",Florida,33305,2111,35115
+102235,for_sale,2510092,3,4,0.25,864381,"Fort Lauderdale",Florida,33305,2014,44225
+54228,for_sale,2500000,3,3,0.29,813755,"Wilton Manors",Florida,33305,1994,44517
+28955,for_sale,585000,2,2,0.17,660035,"Fort Lauderdale",Florida,33308,1977,42249
+58865,for_sale,199999,1,1,1.65,1160392,"Lauderdale By The Sea",Florida,33308,660,36195
+4341,for_sale,190000,1,1,NULL,1013329,"Fort Lauderdale",Florida,33308,800,
+24161,for_sale,285000,2,2,NULL,1125008,"Fort Lauderdale",Florida,33308,1145,
+58713,for_sale,280000,2,2,NULL,1013333,"Fort Lauderdale",Florida,33308,1350,
+76502,for_sale,219900,2,2,NULL,720695,"Fort Lauderdale",Florida,33308,1100,33547
+18916,for_sale,559999,2,2,NULL,1042893,"Fort Lauderdale",Florida,33308,1635,38128
+15681,for_sale,385000,1,2,NULL,1123059,"Fort Lauderdale",Florida,33308,1153,39377
+58713,for_sale,403300,1,2,NULL,1123210,"Fort Lauderdale",Florida,33308,1209,38994
+78219,for_sale,329000,2,2,NULL,988386,"Fort Lauderdale",Florida,33308,1120,
+57007,for_sale,419000,1,2,NULL,1035132,"Fort Lauderdale",Florida,33308,1150,32416
+35776,for_sale,249000,1,1,NULL,1152482,"Fort Lauderdale",Florida,33308,665,38568
+13955,for_sale,210000,1,1,NULL,1013328,"Fort Lauderdale",Florida,33308,800,
+52572,for_sale,530000,2,2,NULL,1152476,"Fort Lauderdale",Florida,33308,1356,36228
+37788,for_sale,646500,2,2,NULL,1042888,"Fort Lauderdale",Florida,33308,1632,44630
+58713,for_sale,475000,2,2,NULL,850128,"Fort Lauderdale",Florida,33308,1200,34675
+31641,for_sale,1050000,3,3,0.18,1505512,"Fort Lauderdale",Florida,33308,1741,35300
+16829,for_sale,19995000,6,8,0.49,600744,"Fort Lauderdale",Florida,33308,9112,41095
+82468,for_sale,419900,2,2,NULL,937592,"Fort Lauderdale",Florida,33308,1100,44621
+35886,for_sale,429000,2,2,NULL,937591,"Fort Lauderdale",Florida,33308,1031,42156
+16829,for_sale,7800000,4,4,0.21,901478,"Fort Lauderdale",Florida,33308,2750,
+16829,for_sale,2399900,5,5,0.14,903729,"Fort Lauderdale",Florida,33308,2172,38303
+70271,for_sale,3850000,5,6,0.17,946731,"Fort Lauderdale",Florida,33308,5736,38540
+70271,for_sale,2699999,3,4,NULL,988374,"Fort Lauderdale",Florida,33308,2850,37140
+35855,for_sale,7498000,5,6,0.42,741151,"Fort Lauderdale",Florida,33308,6148,43508
+103321,for_sale,1850000,3,3,0.22,951597,"Fort Lauderdale",Florida,33308,2901,40925
+32342,for_sale,1190000,2,2,NULL,959088,"Fort Lauderdale",Florida,33308,1537,36280
+22611,for_sale,9250000,8,10,0.44,1773872,"Fort Lauderdale",Florida,33308,10486,43200
+87807,for_sale,930000,2,2,NULL,1116517,"Fort Lauderdale",Florida,33308,1550,40695
+53364,for_sale,1799000,3,3,0.15,900841,"Fort Lauderdale",Florida,33308,2177,32603
+52664,for_sale,3100000,5,6,0.32,1356380,"Fort Lauderdale",Florida,33308,4507,44224
+73388,for_sale,780000,2,2,NULL,1100073,"Fort Lauderdale",Florida,33308,1580,35573
+14714,for_sale,1800000,3,3,0.21,879544,"Fort Lauderdale",Florida,33308,1908,42209
+32342,for_sale,1799000,3,3,NULL,959089,"Fort Lauderdale",Florida,33308,2088,44515
+16829,for_sale,2950000,3,3,0.22,937347,"Fort Lauderdale",Florida,33308,2776,41262
+81619,for_sale,999999,2,3,NULL,1035133,"Fort Lauderdale",Florida,33308,1859,33999
+81619,for_sale,2699000,4,5,NULL,771516,"Lauderdale By The Sea",Florida,33308,3854,
+73388,for_sale,1030000,2,3,NULL,1100074,"Fort Lauderdale",Florida,33308,2080,44516
+81619,for_sale,2299000,4,5,NULL,704622,"Lauderdale By The Sea",Florida,33308,3207,
+22611,for_sale,229000,2,2,NULL,1013326,"Fort Lauderdale",Florida,33308,1120,
+50047,for_sale,239900,2,2,NULL,670214,"Fort Lauderdale",Florida,33308,1180,38183
+66355,for_sale,315000,2,2,NULL,1013325,"Fort Lauderdale",Florida,33308,1300,36585
+84926,for_sale,340000,2,2,NULL,776014,"Fort Lauderdale",Florida,33308,1120,44620
+35838,for_sale,299500,2,2,NULL,895842,"Fort Lauderdale",Florida,33308,758,38576
+30807,for_sale,600000,3,3,0.17,1456910,"Fort Lauderdale",Florida,33308,1732,
+17823,for_sale,225000,2,2,NULL,1545713,"Fort Lauderdale",Florida,33308,1030,38070
+54228,for_sale,400000,1,1,NULL,959177,"Fort Lauderdale",Florida,33308,1000,43768
+29746,for_sale,315000,2,2,NULL,1371347,"Fort Lauderdale",Florida,33308,928,44645
+58264,for_sale,270000,2,2,NULL,1371348,"Fort Lauderdale",Florida,33308,928,38765
+70271,for_sale,10500000,5,7,0.78,1123011,"Fort Lauderdale",Florida,33308,6323,43257
+36338,for_sale,545000,2,2,NULL,988421,"Fort Lauderdale",Florida,33308,1351,36019
+93224,for_sale,425000,2,2,NULL,959186,"Fort Lauderdale",Florida,33308,1400,43405
+32342,for_sale,495000,2,2,NULL,1022628,"Fort Lauderdale",Florida,33308,1340,42061
+87756,for_sale,789000,3,2,0.18,1416645,"Fort Lauderdale",Florida,33308,1987,43958
+18916,for_sale,415000,1,2,NULL,1116520,"Fort Lauderdale",Florida,33308,1050,38085
+35855,for_sale,4300000,4,5,0.34,967413,"Fort Lauderdale",Florida,33308,4123,43707
+16829,for_sale,699000,2,2,NULL,1123151,"Lauderdale By The Sea",Florida,33308,2006,38422
+30593,for_sale,450000,1,2,NULL,1042887,"Fort Lauderdale",Florida,33308,1140,39161
+16829,for_sale,2599900,3,3,0.21,963922,"Fort Lauderdale",Florida,33308,2432,34123
+16829,for_sale,937500,3,3,NULL,1172122,"Fort Lauderdale",Florida,33308,2480,39185
+8821,for_sale,798788,6,4,NULL,678837,"Fort Lauderdale",Florida,33308,2708,32896
+31171,for_sale,450000,2,2,NULL,1149485,"Fort Lauderdale",Florida,33308,1190,38980
+16829,for_sale,549000,2,2,NULL,850125,"Fort Lauderdale",Florida,33308,1200,41788
+58464,for_sale,749000,2,2,NULL,879827,"Fort Lauderdale",Florida,33308,1274,44288
+53364,for_sale,439900,1,2,NULL,1100075,"Fort Lauderdale",Florida,33308,980,37601
+15721,for_sale,1250000,4,4,NULL,,"Lauderdale By The Sea",Florida,33308,1918,38176
+70271,for_sale,850000,2,2,NULL,1214532,"Fort Lauderdale",Florida,33308,1450,43371
+78568,for_sale,1595000,5,5,NULL,1126022,"Fort Lauderdale",Florida,33308,3481,44522
+31855,for_sale,760000,2,3,NULL,1338078,"Fort Lauderdale",Florida,33308,1243,38825
+29015,for_sale,1450000,3,4,NULL,937331,"Fort Lauderdale",Florida,33308,2663,44014
+58713,for_sale,555000,1,2,NULL,1356135,"Lauderdale By The Sea",Florida,33308,1000,44280
+72193,for_sale,1450000,2,3,NULL,1204366,"Fort Lauderdale",Florida,33308,2318,37714
+35637,for_sale,789000,3,2,NULL,1149486,"Fort Lauderdale",Florida,33308,1580,
+22611,for_sale,855000,2,2,NULL,1214535,"Fort Lauderdale",Florida,33308,1450,43283
+11228,for_sale,2750000,4,4,0.41,1219481,"Fort Lauderdale",Florida,33308,4540,
+81619,for_sale,2759000,4,4,NULL,740029,"Lauderdale By The Sea",Florida,33308,3200,
+29015,for_sale,1585000,3,4,NULL,937333,"Fort Lauderdale",Florida,33308,2097,
+10171,for_sale,3299900,4,3,0.31,863557,"Fort Lauderdale",Florida,33308,3638,44399
+32342,for_sale,1995000,3,3,NULL,959097,"Fort Lauderdale",Florida,33308,1977,44396
+30180,for_sale,139900,1,1,NULL,1125865,"Fort Lauderdale",Florida,33308,600,34814
+9556,for_sale,214000,2,2,NULL,686414,"Fort Lauderdale",Florida,33308,830,41351
+4457,for_sale,346900,2,2,NULL,988392,"Fort Lauderdale",Florida,33308,1350,38370
+6874,for_sale,159000,2,2,NULL,709812,"Fort Lauderdale",Florida,33308,1100,38377
+54228,for_sale,429900,2,2,NULL,959185,"Fort Lauderdale",Florida,33308,1200,35146
+37788,for_sale,304900,2,2,NULL,1013336,"Fort Lauderdale",Florida,33308,1120,36245
+13916,for_sale,165000,1,2,NULL,688476,"Fort Lauderdale",Florida,33308,756,44462
+93224,for_sale,425000,2,2,NULL,959189,"Fort Lauderdale",Florida,33308,1400,
+16829,for_sale,179000,1,2,NULL,796984,"Fort Lauderdale",Florida,33308,841,43587
+75445,for_sale,760000,3,2,0.17,1430673,"Fort Lauderdale",Florida,33308,1544,40843
+70271,for_sale,185000,1,2,NULL,1153338,"Oakland Park",Florida,33308,775,43692
+81619,for_sale,825000,4,2,0.16,1515307,"Fort Lauderdale",Florida,33308,1852,36336
+22611,for_sale,429000,2,2,NULL,944122,"Fort Lauderdale",Florida,33308,1450,42552
+16829,for_sale,412000,3,2,NULL,931002,"Fort Lauderdale",Florida,33308,1328,40046
+64017,for_sale,479000,2,2,NULL,1160393,"Lauderdale By The Sea",Florida,33308,880,
+69067,for_sale,550000,2,2,0.18,796026,"Lauderdale By The Sea",Florida,33308,1218,36014
+103320,for_sale,580000,2,2,0.16,689248,"Fort Lauderdale",Florida,33308,1466,42019
+27459,for_sale,799000,4,2,0.18,1391378,"Fort Lauderdale",Florida,33308,2056,39806
+61739,for_sale,875000,3,2,0.17,1423065,"Fort Lauderdale",Florida,33308,1929,
+9953,for_sale,250000,2,1,NULL,1002831,"Fort Lauderdale",Florida,33308,760,38901
+53364,for_sale,479000,2,2,NULL,967716,"Fort Lauderdale",Florida,33308,1300,43938
+37788,for_sale,1149000,3,2,0.18,674854,"Fort Lauderdale",Florida,33308,2195,44281
+103320,for_sale,229000,1,1,NULL,1145858,"Fort Lauderdale",Florida,33308,685,44459
+20083,for_sale,650000,3,2,0.16,1422956,"Fort Lauderdale",Florida,33308,1373,40758
+54228,for_sale,1500000,4,3,0.23,1251360,"Fort Lauderdale",Florida,33308,2895,36368
+12627,for_sale,930000,4,4,NULL,853347,"Fort Lauderdale",Florida,33308,3048,
+16829,for_sale,2600000,3,3,0.24,954039,"Fort Lauderdale",Florida,33308,3050,36325
+82907,for_sale,650000,2,2,NULL,1116518,"Fort Lauderdale",Florida,33308,1650,34852
+16829,for_sale,1295000,3,2,0.23,1278021,"Fort Lauderdale",Florida,33308,2341,37880
+64719,for_sale,1399000,4,4,NULL,879543,"Fort Lauderdale",Florida,33308,2638,42096
+20084,for_sale,559000,2,2,NULL,1160391,"Lauderdale By The Sea",Florida,33308,880,38496
+53116,for_sale,675000,2,2,NULL,1152477,"Fort Lauderdale",Florida,33308,1596,32794
+53364,for_sale,1050000,3,3,NULL,959179,"Fort Lauderdale",Florida,33308,2550,43481
+35,for_sale,2550000,4,4,0.18,743900,"Lauderdale By The Sea",Florida,33308,3170,44176
+22666,for_sale,3850000,4,5,0.2,1004674,"Fort Lauderdale",Florida,33308,3352,43613
+103320,for_sale,2645000,5,4,0.27,1431824,"Fort Lauderdale",Florida,33308,2864,41921
+6275,for_sale,499000,2,2,NULL,1524638,"Fort Lauderdale",Florida,33308,1250,39919
+16829,for_sale,1949000,4,3,0.24,881961,"Fort Lauderdale",Florida,33308,2921,34238
+35855,for_sale,8995000,5,6,0.4,1153685,"Fort Lauderdale",Florida,33308,7637,42816
+45618,for_sale,999999,2,2,NULL,1042890,"Fort Lauderdale",Florida,33308,1827,41389
+72193,for_sale,1799900,3,3,NULL,959091,"Fort Lauderdale",Florida,33308,2086,40295
+53364,for_sale,199000,1,1,NULL,549156,"Fort Lauderdale",Florida,33308,650,41900
+81010,for_sale,249500,2,2,NULL,988393,"Fort Lauderdale",Florida,33308,1120,38196
+8716,for_sale,299900,2,2,NULL,1371349,"Fort Lauderdale",Florida,33308,928,41325
+81010,for_sale,339000,2,2,NULL,988389,"Fort Lauderdale",Florida,33308,1120,37341
+6275,for_sale,369000,1,2,NULL,931003,"Fort Lauderdale",Florida,33308,946,38490
+57007,for_sale,385000,1,2,NULL,1149487,"Fort Lauderdale",Florida,33308,940,40542
+58713,for_sale,515000,2,2,NULL,850127,"Fort Lauderdale",Florida,33308,1200,36067
+29656,for_sale,395000,2,2,NULL,988390,"Fort Lauderdale",Florida,33308,1120,38775
+70271,for_sale,1100000,2,3,NULL,946838,"Fort Lauderdale",Florida,33308,1625,40900
+10958,for_sale,364900,1,2,NULL,1206434,"Fort Lauderdale",Florida,33308,950,33847
+84534,for_sale,1425000,3,3,0.23,1077870,"Fort Lauderdale",Florida,33308,2613,44350
+82907,for_sale,240000,1,2,NULL,1124952,"Fort Lauderdale",Florida,33308,802,
+87418,for_sale,280000,2,1,NULL,1235005,"Fort Lauderdale",Florida,33308,800,36565
+53364,for_sale,500000,2,2,NULL,967717,"Fort Lauderdale",Florida,33308,1300,43713
+29656,for_sale,239000,1,1,NULL,998596,"Fort Lauderdale",Florida,33308,774,
+9726,for_sale,695000,3,2,0.16,1079722,"Oakland Park",Florida,33308,1582,41627
+10171,for_sale,347500,2,2,NULL,931005,"Fort Lauderdale",Florida,33308,1144,34626
+106559,for_sale,449000,2,2,NULL,959183,"Fort Lauderdale",Florida,33308,1177,43074
+52577,for_sale,299000,1,1,NULL,1090561,"Fort Lauderdale",Florida,33308,620,42345
+30807,for_sale,968000,4,3,0.17,626529,"Fort Lauderdale",Florida,33308,2196,44386
+30807,for_sale,595000,2,2,NULL,933667,"Fort Lauderdale",Florida,33308,1200,42235
+35637,for_sale,1500000,3,2,0.22,660033,"Fort Lauderdale",Florida,33308,2376,42898
+43641,for_sale,1890000,5,5,NULL,1262845,"Lauderdale By The Sea",Florida,33308,2811,43754
+28159,for_sale,3250000,3,4,0.33,330219,"Sea Ranch Lakes",Florida,33308,3245,41726
+103243,for_sale,1300000,4,5,0.18,722448,"Lauderdale By The Sea",Florida,33308,1979,38366
+87807,for_sale,710000,2,2,NULL,1123057,"Fort Lauderdale",Florida,33308,1435,37242
+16829,for_sale,3495000,4,4,0.22,933668,"Fort Lauderdale",Florida,33308,3670,43168
+32342,for_sale,2599000,3,3,NULL,959095,"Fort Lauderdale",Florida,33308,2318,44531
+12278,for_sale,4950000,6,8,0.32,1013792,"Fort Lauderdale",Florida,33308,5700,43112
+30807,for_sale,998000,2,3,NULL,1316861,"Lauderdale By The Sea",Florida,33308,1780,35268
+20084,for_sale,1599000,4,3,0.27,1566955,"Sea Ranch Lakes",Florida,33308,2266,
+11228,for_sale,2300000,3,3,NULL,1298634,"Lauderdale By The Sea",Florida,33308,2550,37455
+67998,for_sale,990000,2,2,NULL,1123058,"Fort Lauderdale",Florida,33308,1821,
+38934,for_sale,419000,1,1,NULL,1090562,"Fort Lauderdale",Florida,33308,800,38425
+81619,for_sale,2199000,4,4,NULL,1252021,"Lauderdale By The Sea",Florida,33308,3324,
+81619,for_sale,2199000,4,4,NULL,1251698,"Lauderdale By The Sea",Florida,33308,3324,
+78224,for_sale,3200000,5,5,0.34,562571,"Sea Ranch Lakes",Florida,33308,5351,44300
+16829,for_sale,1225000,3,3,NULL,959178,"Fort Lauderdale",Florida,33308,2427,38268
+78568,for_sale,12500000,5,7,0.61,1157836,"Fort Lauderdale",Florida,33308,7583,42695
+3940,for_sale,583000,4,2,0.14,347110,Miami,Florida,33196,1766,
+11048,for_sale,400000,3,2,NULL,425963,Miami,Florida,33196,1384,
+30180,for_sale,429900,3,2,0.16,859253,"Fort Lauderdale",Florida,33312,2009,36137
+79194,for_sale,439900,4,2,0.16,1064640,"Fort Lauderdale",Florida,33312,1692,40617
+92314,for_sale,410000,3,2,0.25,1189458,"Fort Lauderdale",Florida,33312,1583,37280
+50644,for_sale,949900,3,3,NULL,1698919,"Fort Lauderdale",Florida,33312,3189,
+90569,for_sale,383900,3,2,0.17,365145,"Fort Lauderdale",Florida,33312,1596,42216
+57080,for_sale,465000,3,2,0.19,403161,"Fort Lauderdale",Florida,33312,1655,42041
+28976,for_sale,459999,3,2,0.19,1080811,"Fort Lauderdale",Florida,33312,1584,42992
+6986,for_sale,479999,4,2,0.17,1081837,"Fort Lauderdale",Florida,33312,1784,44543
+44627,for_sale,489900,4,3,0.17,1149024,"Fort Lauderdale",Florida,33312,1871,44595
+37064,for_sale,430000,2,2,NULL,1108124,"Fort Lauderdale",Florida,33312,1520,
+27351,for_sale,330000,2,3,NULL,1008825,"Fort Lauderdale",Florida,33312,1679,41158
+58708,for_sale,439000,2,2,0.17,970445,"Fort Lauderdale",Florida,33312,1238,
+25836,for_sale,849000,3,3,0.37,412357,"Fort Lauderdale",Florida,33312,2136,42828
+14748,for_sale,230000,1,1,NULL,1054979,"Fort Lauderdale",Florida,33312,844,41331
+2635,for_sale,426900,3,2,0.17,1474450,"Fort Lauderdale",Florida,33312,1459,41003
+109212,for_sale,487500,3,2,0.16,488168,"Fort Lauderdale",Florida,33312,1311,44572
+32342,for_sale,775000,4,3,0.24,646605,"Fort Lauderdale",Florida,33312,2166,43896
+22611,for_sale,699000,3,2,0.18,802539,"Fort Lauderdale",Florida,33312,1728,44466
+44046,for_sale,1150000,3,2,0.16,782844,"Fort Lauderdale",Florida,33312,1572,37957
+76115,for_sale,899000,3,2,0.22,630632,"Fort Lauderdale",Florida,33312,1494,44459
+54224,for_sale,564990,4,2,0.18,1051288,"Fort Lauderdale",Florida,33312,1369,43453
+84534,for_sale,674901,3,2,0.18,493676,"Fort Lauderdale",Florida,33312,1535,
+81233,for_sale,675000,3,2,0.16,542409,"Fort Lauderdale",Florida,33312,1474,35586
+64151,for_sale,510000,2,2,0.17,1495348,"Fort Lauderdale",Florida,33312,1302,41429
+51114,for_sale,525000,2,2,NULL,1472284,"Fort Lauderdale",Florida,33312,1036,38742
+57984,for_sale,1489000,3,2,0.16,780074,"Fort Lauderdale",Florida,33312,1772,42283
+81233,for_sale,849000,3,2,0.22,769740,"Fort Lauderdale",Florida,33312,1462,36528
+57984,for_sale,760000,4,3,0.18,809348,"Fort Lauderdale",Florida,33312,1555,42955
+16829,for_sale,3900000,4,5,0.99,767969,"Fort Lauderdale",Florida,33312,4317,42940
+22611,for_sale,2477888,4,3,0.5,290759,"Fort Lauderdale",Florida,33312,2484,44531
+3261,for_sale,1470000,4,4,0.15,1496341,"Fort Lauderdale",Florida,33312,2730,38576
+3261,for_sale,1440000,4,4,0.14,1487773,"Fort Lauderdale",Florida,33312,2730,42718
+102752,for_sale,950000,6,4,NULL,537722,"Fort Lauderdale",Florida,33312,2400,43857
+29746,for_sale,110000,1,2,NULL,1496618,"Fort Lauderdale",Florida,33308,650,
+74549,for_sale,170000,1,2,NULL,,"Fort Lauderdale",Florida,33308,756,37398
+22611,for_sale,169900,1,1,NULL,1022621,"Fort Lauderdale",Florida,33308,800,
+70271,for_sale,415000,2,2,NULL,943888,"Fort Lauderdale",Florida,33308,1610,38154
+31641,for_sale,190000,2,1,NULL,784949,"Fort Lauderdale",Florida,33308,875,40310
+16829,for_sale,249000,1,1,NULL,988388,"Fort Lauderdale",Florida,33308,800,38722
+81619,for_sale,825000,3,2,0.17,679951,"Fort Lauderdale",Florida,33308,1683,44405
+109855,for_sale,245000,2,2,NULL,710183,"Fort Lauderdale",Florida,33308,1008,43138
+37819,for_sale,325000,2,2,NULL,776017,"Fort Lauderdale",Florida,33308,1210,
+25836,for_sale,329900,2,2,NULL,796985,"Fort Lauderdale",Florida,33308,1292,
+9387,for_sale,779000,3,2,0.17,570510,"Fort Lauderdale",Florida,33308,1561,33802
+53364,for_sale,540000,2,2,0.17,621256,"Fort Lauderdale",Florida,33308,1115,42248
+81010,for_sale,225000,1,1,NULL,1022616,"Fort Lauderdale",Florida,33308,800,35639
+14714,for_sale,375000,2,1,NULL,776012,"Fort Lauderdale",Florida,33308,1132,40214
+79946,for_sale,260000,2,1,NULL,1002832,"Fort Lauderdale",Florida,33308,760,38611
+22666,for_sale,449000,2,2,NULL,988424,"Fort Lauderdale",Florida,33308,1290,41337
+16829,for_sale,1195000,3,3,0.24,1175538,"Fort Lauderdale",Florida,33308,2545,42445
+35072,for_sale,899000,5,4,0.19,1343256,"Fort Lauderdale",Florida,33308,2540,31791
+58891,for_sale,349999,1,2,NULL,1338080,"Fort Lauderdale",Florida,33308,850,43403
+32342,for_sale,995000,3,3,NULL,959180,"Fort Lauderdale",Florida,33308,2268,43524
+76280,for_sale,399900,1,2,NULL,1042889,"Fort Lauderdale",Florida,33308,1054,36109
+89072,for_sale,450000,2,2,NULL,1507589,"Fort Lauderdale",Florida,33308,1200,42535
+24161,for_sale,445000,2,2,NULL,854927,"Fort Lauderdale",Florida,33308,1200,
+109855,for_sale,599000,2,3,NULL,1404065,"Lauderdale By The Sea",Florida,33308,1500,41450
+94847,for_sale,599999,2,2,NULL,1206433,"Fort Lauderdale",Florida,33308,1350,41110
+70271,for_sale,3950000,4,3,0.32,1366121,"Fort Lauderdale",Florida,33308,2811,44193
+81233,for_sale,809000,2,2,NULL,1214533,"Fort Lauderdale",Florida,33308,1450,43746
+83066,for_sale,1295000,3,3,0.19,771363,"Lauderdale By The Sea",Florida,33308,2615,36164
+65375,for_sale,2395000,3,2,0.22,951477,"Fort Lauderdale",Florida,33308,2025,43598
+64017,for_sale,899000,4,4,NULL,685406,"Fort Lauderdale",Florida,33308,2500,
+32342,for_sale,1499000,3,4,NULL,959094,"Fort Lauderdale",Florida,33308,2318,38057
+70271,for_sale,1100000,3,4,NULL,1210391,"Fort Lauderdale",Florida,33308,2400,35552
+98646,for_sale,2795800,4,4,0.18,1014752,"Fort Lauderdale",Florida,33308,2771,
+68368,for_sale,760000,2,2,NULL,1152480,"Fort Lauderdale",Florida,33308,1907,44160
+30807,for_sale,1585000,4,3,NULL,1298636,"Lauderdale By The Sea",Florida,33308,2100,43236
+29746,for_sale,790000,2,2,NULL,1152479,"Fort Lauderdale",Florida,33308,1596,35240
+72193,for_sale,999900,2,2,NULL,959096,"Fort Lauderdale",Florida,33308,1537,35724
+29746,for_sale,3300000,3,2,0.2,965137,"Fort Lauderdale",Florida,33308,2437,34058
+22611,for_sale,850000,3,3,NULL,1100077,"Fort Lauderdale",Florida,33308,2323,
+79300,for_sale,709900,1,2,NULL,1338169,"Lauderdale By The Sea",Florida,33308,1080,40492
+37788,for_sale,14900000,6,8,0.57,951476,"Fort Lauderdale",Florida,33308,10549,42020
+6973,for_sale,335000,1,1,NULL,1456100,"Fort Lauderdale",Florida,33304,975,41318
+90569,for_sale,160000,2,2,NULL,1505286,"Fort Lauderdale",Florida,33304,896,44428
+18916,for_sale,675000,3,2,0.16,334869,"Fort Lauderdale",Florida,33304,1547,36278
+35694,for_sale,569000,5,3,0.16,417397,"Fort Lauderdale",Florida,33304,1791,34114
+16829,for_sale,850000,3,4,NULL,527380,"Fort Lauderdale",Florida,33304,2036,
+2169,for_sale,749000,2,2,NULL,649532,"Fort Lauderdale",Florida,33304,1550,43227
+89525,for_sale,199000,1,1,NULL,842702,"Fort Lauderdale",Florida,33304,586,42207
+16829,for_sale,830000,3,4,NULL,527378,"Fort Lauderdale",Florida,33304,2036,
+20084,for_sale,899000,2,1,0.2,400805,"Fort Lauderdale",Florida,33304,1123,41220
+54228,for_sale,189000,1,1,NULL,842712,"Fort Lauderdale",Florida,33304,548,38810
+13955,for_sale,795000,1,1,NULL,959467,"Fort Lauderdale",Florida,33304,724,42366
+16196,for_sale,898000,3,4,NULL,226187,"Fort Lauderdale",Florida,33304,2321,
+16196,for_sale,929000,3,4,NULL,227481,"Fort Lauderdale",Florida,33304,2321,
+16196,for_sale,998000,4,4,NULL,223147,"Fort Lauderdale",Florida,33304,3037,
+54228,for_sale,997594,3,3,NULL,1569832,"Fort Lauderdale",Florida,33304,2257,
+82480,for_sale,1350000,2,2,NULL,959465,"Fort Lauderdale",Florida,33304,1329,
+29015,for_sale,15900000,5,7,NULL,1364441,"Fort Lauderdale",Florida,33304,6168,
+54228,for_sale,1050000,4,4,NULL,1569831,"Fort Lauderdale",Florida,33304,2632,
+71687,for_sale,3195000,5,5,0.25,1006541,"Fort Lauderdale",Florida,33304,3474,43497
+31305,for_sale,565000,1,2,NULL,1398551,"Fort Lauderdale",Florida,33304,731,42552
+57742,for_sale,825000,1,2,NULL,1398544,"Fort Lauderdale",Florida,33304,794,42983
+25102,for_sale,1025000,2,2,NULL,169766,"Fort Lauderdale",Florida,33304,1700,43789
+57742,for_sale,1150000,1,2,NULL,1398538,"Fort Lauderdale",Florida,33304,839,43719
+16829,for_sale,5495000,12,12,NULL,72678,"Fort Lauderdale",Florida,33304,8705,
+16829,for_sale,2595000,3,4,NULL,884807,"Fort Lauderdale",Florida,33304,2750,43572
+16829,for_sale,3295000,4,5,NULL,1572336,"Fort Lauderdale",Florida,33304,3474,43283
+58478,for_sale,1290000,2,3,NULL,1456099,"Fort Lauderdale",Florida,33304,2050,41649
+57742,for_sale,1425000,2,3,NULL,1398537,"Fort Lauderdale",Florida,33304,1287,
+16829,for_sale,2400000,2,3,NULL,9688,"Fort Lauderdale",Florida,33304,2003,42093
+16829,for_sale,2695000,4,5,0.37,287052,"Fort Lauderdale",Florida,33304,3250,44357
+19809,for_sale,1290900,2,2,NULL,1398556,"Fort Lauderdale",Florida,33304,1184,42741
+29015,for_sale,4550000,2,3,NULL,1364431,"Fort Lauderdale",Florida,33304,2242,
+29015,for_sale,3000000,1,2,NULL,1364424,"Fort Lauderdale",Florida,33304,1436,
+29015,for_sale,4200000,2,3,NULL,1364422,"Fort Lauderdale",Florida,33304,2029,
+29015,for_sale,4200000,2,3,NULL,1364427,"Fort Lauderdale",Florida,33304,1857,
+29015,for_sale,4200000,2,3,NULL,1364426,"Fort Lauderdale",Florida,33304,1857,
+29015,for_sale,4550000,2,3,NULL,1364432,"Fort Lauderdale",Florida,33304,2242,
+29015,for_sale,1195000,3,3,NULL,1366872,"Fort Lauderdale",Florida,33304,1775,
+103319,for_sale,450000,2,2,0.16,295666,"Fort Lauderdale",Florida,33304,1100,39321
+59560,for_sale,187000,1,1,NULL,842709,"Fort Lauderdale",Florida,33304,586,38883
+20084,for_sale,165000,2,1,NULL,353067,"Fort Lauderdale",Florida,33304,767,44586
+35156,for_sale,172000,1,1,NULL,1984566,"Fort Lauderdale",Florida,33304,581,
+30180,for_sale,205000,1,1,NULL,842707,"Fort Lauderdale",Florida,33304,548,43110
+37819,for_sale,299999,1,1,NULL,1764715,"Fort Lauderdale",Florida,33304,490,37990
+9198,for_sale,299000,2,1,NULL,1597289,"Fort Lauderdale",Florida,33304,936,
+37819,for_sale,299999,1,1,NULL,1764714,"Fort Lauderdale",Florida,33304,490,36944
+95432,for_sale,439900,2,2,NULL,181737,"Fort Lauderdale",Florida,33304,1344,41949
+20084,for_sale,359000,1,2,NULL,1750874,"Fort Lauderdale",Florida,33304,940,34198
+36174,for_sale,639000,1,2,NULL,1398560,"Fort Lauderdale",Florida,33304,641,43112
+20084,for_sale,699000,4,3,0.19,442221,"Fort Lauderdale",Florida,33304,1877,
+8821,for_sale,895000,3,4,NULL,503602,"Fort Lauderdale",Florida,33304,2472,41668
+22611,for_sale,595000,2,2,NULL,1339644,"Fort Lauderdale",Florida,33304,1330,39743
+92848,for_sale,424000,1,1,NULL,1398539,"Fort Lauderdale",Florida,33304,579,
+17823,for_sale,899999,3,2,0.17,1622225,"Fort Lauderdale",Florida,33304,1754,44627
+17695,for_sale,830000,2,2,0.18,461078,"Fort Lauderdale",Florida,33304,1446,33709
+70271,for_sale,7300000,5,6,0.26,707368,"Fort Lauderdale",Florida,33304,3943,33801
+16829,for_sale,830000,3,4,NULL,527386,"Fort Lauderdale",Florida,33304,2036,
+30378,for_sale,2179000,4,4,0.29,809694,"Fort Lauderdale",Florida,33304,4160,38413
+84928,for_sale,1200000,2,3,NULL,1480269,"Fort Lauderdale",Florida,33304,2274,42115
+35021,for_sale,3500000,4,4,0.28,1468610,"Fort Lauderdale",Florida,33304,3963,42522
+29015,for_sale,929000,1,2,NULL,9692,"Fort Lauderdale",Florida,33304,750,41016
+31305,for_sale,1975900,3,4,NULL,1398559,"Fort Lauderdale",Florida,33304,1595,42741
+16829,for_sale,850000,3,4,NULL,527381,"Fort Lauderdale",Florida,33304,2036,
+75599,for_sale,650000,1,1,NULL,1398555,"Fort Lauderdale",Florida,33304,579,43349
+75599,for_sale,699000,1,2,NULL,1398558,"Fort Lauderdale",Florida,33304,641,43564
+29015,for_sale,895000,1,2,NULL,9691,"Fort Lauderdale",Florida,33304,889,
+19809,for_sale,1495900,2,2,NULL,1398543,"Fort Lauderdale",Florida,33304,1207,
+53335,for_sale,1200000,2,2,NULL,959469,"Fort Lauderdale",Florida,33304,1176,44420
+16829,for_sale,1264900,2,2,NULL,1398542,"Fort Lauderdale",Florida,33304,1113,42741
+16829,for_sale,2799900,2,3,NULL,1398561,"Fort Lauderdale",Florida,33304,1314,42741
+52664,for_sale,990000,2,2,NULL,1327890,"Fort Lauderdale",Florida,33304,1308,39300
+16829,for_sale,830000,3,4,NULL,527382,"Fort Lauderdale",Florida,33304,2036,
+29015,for_sale,2995000,3,4,NULL,9689,"Fort Lauderdale",Florida,33304,2536,43200
+16829,for_sale,3000000,4,4,0.26,1480226,"Fort Lauderdale",Florida,33304,3606,38082
+16829,for_sale,890000,3,4,NULL,527377,"Fort Lauderdale",Florida,33304,2036,
+35156,for_sale,169900,1,1,NULL,375343,"Fort Lauderdale",Florida,33304,576,
+29790,for_sale,299999,2,2,NULL,175597,"Fort Lauderdale",Florida,33304,1344,35936
+98041,for_sale,425000,2,2,NULL,1327910,"Fort Lauderdale",Florida,33304,1308,39198
+22611,for_sale,239000,1,1,NULL,1403400,"Fort Lauderdale",Florida,33304,537,
+22611,for_sale,250000,2,1,NULL,1495126,"Fort Lauderdale",Florida,33304,882,39409
+25677,for_sale,174990,1,1,NULL,207463,"Fort Lauderdale",Florida,33304,554,42314
+103321,for_sale,250000,1,1,NULL,924027,"Fort Lauderdale",Florida,33304,640,
+25677,for_sale,174990,1,1,NULL,207464,"Fort Lauderdale",Florida,33304,542,
+11055,for_sale,190000,1,1,NULL,842697,"Fort Lauderdale",Florida,33304,548,38777
+30677,for_sale,216000,1,1,NULL,842704,"Fort Lauderdale",Florida,33304,643,38751
+19069,for_sale,235000,1,1,0,842696,"Fort Lauderdale",Florida,33304,586,44487
+4351,for_sale,515000,2,2,0.14,368224,"Fort Lauderdale",Florida,33304,1024,44498
+35855,for_sale,850000,2,4,NULL,1694740,"Fort Lauderdale",Florida,33304,2050,42830
+54228,for_sale,1200000,3,4,NULL,1768415,"Fort Lauderdale",Florida,33304,2600,42285
+16829,for_sale,539000,2,3,NULL,274263,"Fort Lauderdale",Florida,33304,1250,42234
+20084,for_sale,349000,1,2,NULL,1750873,"Fort Lauderdale",Florida,33304,955,
+22611,for_sale,285000,1,1,NULL,1327889,"Fort Lauderdale",Florida,33304,662,39203
+73935,for_sale,899000,3,4,NULL,392488,"Fort Lauderdale",Florida,33304,1876,43131
+6973,for_sale,224900,1,1,NULL,1327912,"Fort Lauderdale",Florida,33304,533,40739
+6973,for_sale,244900,1,1,NULL,1327896,"Fort Lauderdale",Florida,33304,533,40441
+81010,for_sale,900000,4,4,NULL,138932,"Fort Lauderdale",Florida,33304,2540,34814
+81010,for_sale,900000,2,2,NULL,133376,"Fort Lauderdale",Florida,33304,1259,34814
+16829,for_sale,4495000,3,2,0.26,1484919,"Fort Lauderdale",Florida,33304,3340,43655
+16829,for_sale,4990000,4,5,NULL,187514,"Fort Lauderdale",Florida,33304,4100,43984
+105999,for_sale,625000,2,2,NULL,854362,"Fort Lauderdale",Florida,33304,1052,44393
+54225,for_sale,1250000,1,1,NULL,1148518,"Fort Lauderdale",Florida,33304,841,44077
+20084,for_sale,679900,3,3,0.15,134128,"Fort Lauderdale",Florida,33304,1490,43952
+57742,for_sale,1450000,2,3,NULL,1398562,"Fort Lauderdale",Florida,33304,1061,43941
+28955,for_sale,810000,2,3,NULL,1651544,"Fort Lauderdale",Florida,33304,1820,43175
+37788,for_sale,1100000,4,3,0.14,519002,"Fort Lauderdale",Florida,33304,1830,43735
+58713,for_sale,670000,4,2,0.15,234615,"Fort Lauderdale",Florida,33304,1344,42194
+16829,for_sale,890000,3,4,NULL,527387,"Fort Lauderdale",Florida,33304,2036,
+16829,for_sale,2990000,4,4,0.27,1618638,"Fort Lauderdale",Florida,33304,4394,42528
+16829,for_sale,830000,3,4,NULL,527384,"Fort Lauderdale",Florida,33304,2036,
+16829,for_sale,830000,3,4,NULL,527385,"Fort Lauderdale",Florida,33304,2036,
+16829,for_sale,830000,3,4,NULL,527379,"Fort Lauderdale",Florida,33304,2036,
+28955,for_sale,949000,2,2,NULL,1037946,"Fort Lauderdale",Florida,33304,946,44232
+16829,for_sale,830000,3,4,NULL,527383,"Fort Lauderdale",Florida,33304,2036,
+58713,for_sale,2500000,5,5,0.18,1630064,"Fort Lauderdale",Florida,33304,3551,43524
+29015,for_sale,1700000,3,3,NULL,1366873,"Fort Lauderdale",Florida,33304,1775,
+84928,for_sale,2400000,4,5,0.17,1597285,"Fort Lauderdale",Florida,33304,3836,44180
+8061,for_sale,442000,2,2,NULL,1363033,"Fort Lauderdale",Florida,33304,999,39034
+65595,for_sale,379900,1,2,NULL,175596,"Fort Lauderdale",Florida,33304,1138,42136
+22611,for_sale,199000,1,1,NULL,1480749,"Fort Lauderdale",Florida,33304,720,
+35637,for_sale,234000,1,1,NULL,813965,"Fort Lauderdale",Florida,33304,949,43525
+75714,for_sale,400000,2,2,NULL,175598,"Fort Lauderdale",Florida,33304,1592,43579
+59553,for_sale,205000,1,1,NULL,842706,"Fort Lauderdale",Florida,33304,586,40666
+20083,for_sale,244900,1,1,NULL,842708,"Fort Lauderdale",Florida,33304,636,43859
+57080,for_sale,479000,2,3,NULL,291272,"Fort Lauderdale",Florida,33304,1610,37938
+53335,for_sale,329000,1,1,NULL,1456101,"Fort Lauderdale",Florida,33304,975,42587
+30180,for_sale,362500,1,1,NULL,35195,"Fort Lauderdale",Florida,33304,831,41435
+47463,for_sale,227500,1,1,NULL,842711,"Fort Lauderdale",Florida,33304,548,34817
+16829,for_sale,5995000,5,5,0.26,576278,"Fort Lauderdale",Florida,33304,5489,43437
+8821,for_sale,599000,2,3,NULL,54263,"Fort Lauderdale",Florida,33304,1587,43851
+21729,for_sale,879000,2,2,NULL,1706944,"Fort Lauderdale",Florida,33304,1058,
+16829,for_sale,1075000,4,4,NULL,1780958,"Fort Lauderdale",Florida,33304,2702,44515
+16829,for_sale,569000,1,2,NULL,1750872,"Fort Lauderdale",Florida,33304,955,42502
+22611,for_sale,985000,3,4,NULL,1703807,"Fort Lauderdale",Florida,33304,2212,42847
+20084,for_sale,950000,4,3,NULL,285984,"Fort Lauderdale",Florida,33304,2259,44207
+17823,for_sale,650000,2,3,NULL,54264,"Fort Lauderdale",Florida,33304,1911,43154
+56938,for_sale,624999,3,2,NULL,24891,"Fort Lauderdale",Florida,33304,1792,43243
+58713,for_sale,1349000,2,2,NULL,169767,"Fort Lauderdale",Florida,33304,1700,43089
+30807,for_sale,759900,3,4,NULL,1624265,"Fort Lauderdale",Florida,33304,1809,41369
+6973,for_sale,895000,1,2,NULL,1456098,"Fort Lauderdale",Florida,33304,1400,42948
+8061,for_sale,325000,1,1,NULL,1327904,"Fort Lauderdale",Florida,33304,584,44201
+84534,for_sale,999900,3,3,NULL,872888,"Fort Lauderdale",Florida,33304,2498,40346
+16829,for_sale,599000,3,1,0.31,146286,"Fort Lauderdale",Florida,33304,1397,35408
+98041,for_sale,465000,1,2,NULL,1327902,"Fort Lauderdale",Florida,33304,1028,39111
+35943,for_sale,599000,3,3,NULL,144274,"Fort Lauderdale",Florida,33304,1481,41807
+22611,for_sale,1290000,2,3,NULL,884808,"Fort Lauderdale",Florida,33304,2140,41046
+54234,for_sale,1125000,2,2,NULL,959473,"Fort Lauderdale",Florida,33304,1176,42284
+30180,for_sale,784900,1,1,NULL,959466,"Fort Lauderdale",Florida,33304,709,43167
+32342,for_sale,1350000,2,2,NULL,649531,"Fort Lauderdale",Florida,33304,1450,42676
+67998,for_sale,1100000,3,2,0.17,1594579,"Fort Lauderdale",Florida,33304,1586,38595
+37788,for_sale,1399990,4,2,0.18,618920,"Fort Lauderdale",Florida,33304,2185,37228
+81066,for_sale,980000,2,2,NULL,187516,"Fort Lauderdale",Florida,33304,1598,43195
+22611,for_sale,1295000,2,3,NULL,1480270,"Fort Lauderdale",Florida,33304,2070,41498
+81233,for_sale,1195000,4,3,0.16,147643,"Fort Lauderdale",Florida,33304,2424,
+35438,for_sale,2600000,4,5,0.15,1493868,"Fort Lauderdale",Florida,33304,3173,43889
+65375,for_sale,2195000,3,3,0.2,714009,"Fort Lauderdale",Florida,33304,2251,38086
+75534,for_sale,1749000,5,4,0.28,824435,"Fort Lauderdale",Florida,33304,3058,35129
+4378,for_sale,196200,2,1,NULL,767311,"Fort Lauderdale",Florida,33304,650,35879
+58713,for_sale,140000,1,1,NULL,120590,"Fort Lauderdale",Florida,33304,600,38593
+58713,for_sale,195000,1,1,NULL,842700,"Fort Lauderdale",Florida,33304,548,42739
+30677,for_sale,259000,2,1,NULL,1505285,"Fort Lauderdale",Florida,33304,855,43830
+35156,for_sale,164000,1,1,NULL,375341,"Fort Lauderdale",Florida,33304,581,
+11228,for_sale,489000,2,2,NULL,181735,"Fort Lauderdale",Florida,33304,1611,35507
+30677,for_sale,239000,1,1,NULL,842699,"Fort Lauderdale",Florida,33304,554,40907
+14601,for_sale,299000,1,2,NULL,1327911,"Fort Lauderdale",Florida,33304,906,41234
+58713,for_sale,350000,1,2,NULL,923828,"Fort Lauderdale",Florida,33304,846,43517
+74346,for_sale,425000,2,2,NULL,1693746,"Fort Lauderdale",Florida,33304,1034,43390
+11228,for_sale,635000,3,4,NULL,62749,"Fort Lauderdale",Florida,33304,1780,41540
+70271,for_sale,400000,2,2,NULL,175595,"Fort Lauderdale",Florida,33304,1611,42340
+16829,for_sale,599999,2,3,NULL,1651545,"Fort Lauderdale",Florida,33304,1820,34773
+30180,for_sale,250000,1,1,NULL,1327887,"Fort Lauderdale",Florida,33304,533,39105
+57984,for_sale,495000,1,1,NULL,1327892,"Fort Lauderdale",Florida,33304,584,39069
+81233,for_sale,1195000,3,4,NULL,62748,"Fort Lauderdale",Florida,33304,2600,43228
+98041,for_sale,450000,1,2,NULL,1327903,"Fort Lauderdale",Florida,33304,868,39153
+98041,for_sale,550000,1,2,NULL,1327901,"Fort Lauderdale",Florida,33304,1028,40547
+87503,for_sale,775000,3,4,NULL,1713983,"Fort Lauderdale",Florida,33304,1916,43516
+16829,for_sale,8595000,7,10,0.37,1403300,"Fort Lauderdale",Florida,33304,8718,44383
+97279,for_sale,895000,1,2,NULL,1469606,"Fort Lauderdale",Florida,33304,1685,35562
+54228,for_sale,1495000,3,4,0.15,1720975,"Fort Lauderdale",Florida,33304,2092,
+92181,for_sale,999000,4,5,NULL,148390,"Fort Lauderdale",Florida,33304,2691,43675
+16829,for_sale,21995000,8,10,0.65,1503772,"Fort Lauderdale",Florida,33304,8962,41829
+13954,for_sale,2300000,8,6,NULL,1481153,"Fort Lauderdale",Florida,33304,4655,43704
+16829,for_sale,1299000,3,3,NULL,79013,"Fort Lauderdale",Florida,33304,2520,40617
+70271,for_sale,5000000,3,4,NULL,187515,"Fort Lauderdale",Florida,33304,4032,43472
+102235,for_sale,1100000,2,2,0.24,799294,"Fort Lauderdale",Florida,33304,1665,36923
+11228,for_sale,5500000,6,6,0.34,1481926,"Fort Lauderdale",Florida,33304,4398,44434
+70271,for_sale,775000,1,2,NULL,1148521,"Fort Lauderdale",Florida,33304,862,
+28937,for_sale,3800000,3,4,NULL,1785590,"Fort Lauderdale",Florida,33304,3258,43550
+70271,for_sale,2795000,3,4,NULL,1785591,"Fort Lauderdale",Florida,33304,3196,
+16829,for_sale,3795000,5,6,0.3,334800,"Fort Lauderdale",Florida,33304,4501,34596
+28955,for_sale,689000,1,2,NULL,1398546,"Fort Lauderdale",Florida,33304,640,43830
+29015,for_sale,3695000,3,3,NULL,9690,"Fort Lauderdale",Florida,33304,2283,41445
+56939,for_sale,6995000,5,7,0.42,402420,"Fort Lauderdale",Florida,33304,7237,44131
+75812,for_sale,4850000,6,8,0.28,1481708,"Fort Lauderdale",Florida,33304,6285,36262
+84929,for_sale,795000,1,1,NULL,959471,"Fort Lauderdale",Florida,33304,709,44550
+57742,for_sale,639999,3,2,0.13,497391,"Fort Lauderdale",Florida,33305,2772,44594
+53364,for_sale,618000,3,2,0.23,785214,"Fort Lauderdale",Florida,33305,2170,43297
+58713,for_sale,1150000,3,3,0.16,776800,"Wilton Manors",Florida,33305,2458,
+76439,for_sale,549990,3,3,NULL,1405139,"Wilton Manors",Florida,33305,1702,
+76439,for_sale,614990,3,3,NULL,1398575,"Wilton Manors",Florida,33305,1702,
+47585,for_sale,600000,2,1,0.22,950757,"Wilton Manors",Florida,33305,1406,
+76439,for_sale,559990,3,4,NULL,1401264,"Wilton Manors",Florida,33305,1727,
+35395,for_sale,432880,1,1,NULL,607376,"Fort Lauderdale",Florida,33305,416,39079
+76439,for_sale,549990,3,3,NULL,1403365,"Wilton Manors",Florida,33305,1702,
+76439,for_sale,624900,3,4,NULL,1409918,"Wilton Manors",Florida,33305,1702,
+76439,for_sale,569559,3,4,NULL,1406342,"Wilton Manors",Florida,33305,1702,
+70271,for_sale,899000,3,4,NULL,770692,"Fort Lauderdale",Florida,33305,2080,43255
+109212,for_sale,1300000,4,3,0.67,705080,"Lazy Lake",Florida,33305,3141,41806
+28937,for_sale,1855000,3,4,NULL,663951,"Fort Lauderdale",Florida,33305,2995,43081
+65375,for_sale,3195000,5,4,0.19,711164,"Fort Lauderdale",Florida,33305,4072,40297
+36336,for_sale,2200000,1,2,NULL,699531,"Fort Lauderdale",Florida,33305,1739,
+36336,for_sale,3569000,3,4,NULL,699532,"Fort Lauderdale",Florida,33305,2787,43462
+16829,for_sale,2749000,4,5,0.22,803638,"Fort Lauderdale",Florida,33305,3250,44516
+16829,for_sale,5250000,5,6,0.18,534139,"Fort Lauderdale",Florida,33305,4619,44243
+81010,for_sale,175000,1,1,NULL,1674916,"Fort Lauderdale",Florida,33305,722,36304
+79946,for_sale,224000,1,1,NULL,574606,"Wilton Manors",Florida,33305,750,42374
+92181,for_sale,399999,2,2,0.02,586203,"Fort Lauderdale",Florida,33305,1060,41436
+16829,for_sale,996000,4,4,0.14,1035214,"Fort Lauderdale",Florida,33305,3039,44216
+81010,for_sale,250000,2,2,NULL,236991,"Wilton Manors",Florida,33305,1180,44546
+81619,for_sale,399900,1,1,NULL,615674,"Fort Lauderdale",Florida,33305,890,43542
+81010,for_sale,420000,2,2,NULL,591576,"Fort Lauderdale",Florida,33305,1056,38287
+56938,for_sale,399900,2,2,NULL,699543,"Fort Lauderdale",Florida,33305,1425,39370
+75769,for_sale,300000,2,2,NULL,1984424,"Wilton Manors",Florida,33305,1180,44460
+70271,for_sale,350000,1,2,NULL,699544,"Fort Lauderdale",Florida,33305,1103,40953
+102235,for_sale,719500,2,3,NULL,535693,"Fort Lauderdale",Florida,33305,1466,42048
+84793,for_sale,899000,3,3,NULL,608279,"Fort Lauderdale",Florida,33305,1685,44194
+35,for_sale,1150000,2,2,0.19,618602,"Fort Lauderdale",Florida,33305,1458,33599
+22658,for_sale,1150000,3,2,0.16,675848,"Wilton Manors",Florida,33305,1657,41031
+16829,for_sale,574900,2,2,NULL,608278,"Fort Lauderdale",Florida,33305,1382,42018
+22611,for_sale,1750000,3,3,NULL,139635,"Fort Lauderdale",Florida,33305,2836,
+32342,for_sale,2195000,1,2,NULL,699533,"Fort Lauderdale",Florida,33305,1350,
+38825,for_sale,1398000,4,3,0.19,451558,"Fort Lauderdale",Florida,33305,2598,44417
+16829,for_sale,4578000,2,3,NULL,699522,"Fort Lauderdale",Florida,33305,2289,43474
+8821,for_sale,1299000,3,2,0.18,708240,"Wilton Manors",Florida,33305,1984,42627
+54280,for_sale,1199000,3,2,0.26,449497,"Fort Lauderdale",Florida,33305,1946,41292
+84926,for_sale,2450000,2,3,NULL,699526,"Fort Lauderdale",Florida,33305,1885,43369
+103321,for_sale,1500000,4,4,NULL,715349,"Fort Lauderdale",Florida,33305,2436,
+43641,for_sale,1750000,5,5,NULL,770045,"Fort Lauderdale",Florida,33305,3010,43236
+22611,for_sale,1500000,3,4,NULL,139636,"Fort Lauderdale",Florida,33305,2681,
+35438,for_sale,2299000,3,4,NULL,699524,"Fort Lauderdale",Florida,33305,2070,
+69262,for_sale,3349000,4,5,0.3,831838,"Fort Lauderdale",Florida,33305,4377,44642
+25836,for_sale,4845000,5,6,NULL,685402,"Fort Lauderdale",Florida,33305,4845,43083
+58713,for_sale,4125000,5,7,0.26,575877,"Fort Lauderdale",Florida,33305,4748,38399
+16829,for_sale,4995000,5,4,NULL,663953,"Fort Lauderdale",Florida,33305,4738,37078
+91629,for_sale,1750000,3,3,NULL,663949,"Fort Lauderdale",Florida,33305,2130,41047
+28937,for_sale,1699000,3,4,NULL,657548,"Fort Lauderdale",Florida,33305,2103,41995
+22611,for_sale,2600000,3,4,0.14,737657,"Fort Lauderdale",Florida,33305,1622,44243
+22611,for_sale,5000000,5,7,0.28,622774,"Fort Lauderdale",Florida,33305,4589,36531
+22611,for_sale,5500000,4,5,NULL,699528,"Fort Lauderdale",Florida,33305,3422,
+35855,for_sale,5500000,5,6,0.32,964876,"Fort Lauderdale",Florida,33305,4007,42933
+79946,for_sale,3490000,4,5,0.2,711485,"Fort Lauderdale",Florida,33305,3000,41730
+35855,for_sale,7250000,5,5,NULL,657551,"Fort Lauderdale",Florida,33305,4738,41355
+30180,for_sale,369000,2,2,NULL,931006,"Fort Lauderdale",Florida,33308,1144,39876
+2169,for_sale,259000,2,2,NULL,1022625,"Fort Lauderdale",Florida,33308,1120,
+29746,for_sale,189900,2,2,NULL,685614,"Fort Lauderdale",Florida,33308,950,44446
+79194,for_sale,110000,1,2,NULL,1496533,"Fort Lauderdale",Florida,33308,650,43776
+20084,for_sale,299000,2,2,NULL,1013327,"Fort Lauderdale",Florida,33308,1300,38351
+29746,for_sale,299000,2,2,NULL,1371350,"Fort Lauderdale",Florida,33308,928,43936
+93224,for_sale,340000,2,2,NULL,959188,"Fort Lauderdale",Florida,33308,1400,36413
+2169,for_sale,249500,2,2,NULL,1022622,"Fort Lauderdale",Florida,33308,1120,36991
+32342,for_sale,212000,1,1,NULL,727254,"Lauderdale By The Sea",Florida,33308,610,42573
+27901,for_sale,285000,2,2,NULL,1371351,"Fort Lauderdale",Florida,33308,928,
+58713,for_sale,159000,1,1,NULL,1022624,"Fort Lauderdale",Florida,33308,800,
+81010,for_sale,400000,3,2,NULL,988391,"Fort Lauderdale",Florida,33308,1400,
+4457,for_sale,350800,2,2,NULL,988387,"Fort Lauderdale",Florida,33308,1120,
+22611,for_sale,159999,1,1,NULL,1357267,"Fort Lauderdale",Florida,33308,650,38203
+52572,for_sale,330000,2,2,NULL,1183273,"Fort Lauderdale",Florida,33308,1030,41715
+28159,for_sale,14300000,5,7,0.28,1311461,"Sea Ranch Lakes",Florida,33308,6600,41241
+103320,for_sale,899000,4,2,0.17,582092,"Fort Lauderdale",Florida,33308,1739,35459
+91586,for_sale,549900,3,2,0.16,1086067,"Oakland Park",Florida,33308,1582,32622
+15801,for_sale,450000,2,3,NULL,1404064,"Lauderdale By The Sea",Florida,33308,1500,34638
+8821,for_sale,419000,2,2,NULL,1498152,"Fort Lauderdale",Florida,33308,1200,42507
+75689,for_sale,899000,3,2,NULL,1152478,"Fort Lauderdale",Florida,33308,1907,39821
+32342,for_sale,5250000,4,5,NULL,959092,"Fort Lauderdale",Florida,33308,4200,35816
+70271,for_sale,2195000,4,5,0.17,724731,"Lauderdale By The Sea",Florida,33308,3625,44075
+22611,for_sale,885000,2,2,NULL,1338174,"Lauderdale By The Sea",Florida,33308,1700,41157
+18916,for_sale,640000,2,2,NULL,1172121,"Fort Lauderdale",Florida,33308,1620,43209
+87756,for_sale,848000,3,2,0.16,631591,"Fort Lauderdale",Florida,33308,1550,40297
+58713,for_sale,699900,1,1,NULL,959181,"Fort Lauderdale",Florida,33308,1563,41122
+22611,for_sale,1499000,3,3,0.18,819551,"Lauderdale By The Sea",Florida,33308,2000,44140
+87807,for_sale,599000,2,2,NULL,1116521,"Fort Lauderdale",Florida,33308,1580,
+76280,for_sale,749900,2,2,NULL,1210394,"Fort Lauderdale",Florida,33308,1650,39657
+72193,for_sale,2500000,3,3,NULL,988373,"Fort Lauderdale",Florida,33308,2588,36067
+87807,for_sale,797000,2,2,NULL,1123154,"Lauderdale By The Sea",Florida,33308,1840,42388
+22666,for_sale,2690000,3,3,0.27,1032420,"Sea Ranch Lakes",Florida,33308,3407,44503
+22611,for_sale,733333,2,2,NULL,1123153,"Lauderdale By The Sea",Florida,33308,1840,38876
+103549,for_sale,1199000,2,2,NULL,1042892,"Fort Lauderdale",Florida,33308,1827,39968
+58713,for_sale,555000,2,2,NULL,884173,"Fort Lauderdale",Florida,33308,1200,39876
+81619,for_sale,2899000,4,5,NULL,800950,"Lauderdale By The Sea",Florida,33308,3854,
+16829,for_sale,975000,2,2,NULL,1249480,"Lauderdale By The Sea",Florida,33308,1485,42772
+22611,for_sale,900000,2,2,NULL,1214536,"Fort Lauderdale",Florida,33308,1700,
+72193,for_sale,2600000,3,4,NULL,988376,"Fort Lauderdale",Florida,33308,2332,44319
+54237,for_sale,425000,2,2,NULL,181738,"Fort Lauderdale",Florida,33304,1611,
+57980,for_sale,425000,2,2,NULL,842698,"Fort Lauderdale",Florida,33304,836,40302
+70271,for_sale,350000,2,2,NULL,175599,"Fort Lauderdale",Florida,33304,1344,43591
+58713,for_sale,210500,2,1,NULL,375342,"Fort Lauderdale",Florida,33304,731,42332
+57980,for_sale,215000,1,1,NULL,842703,"Fort Lauderdale",Florida,33304,548,38875
+98041,for_sale,365000,1,2,NULL,1327914,"Fort Lauderdale",Florida,33304,868,39115
+54228,for_sale,569000,3,2,NULL,232928,"Fort Lauderdale",Florida,33304,1034,44644
+30180,for_sale,343500,1,1,NULL,35194,"Fort Lauderdale",Florida,33304,696,
+98369,for_sale,579000,2,2,NULL,872889,"Fort Lauderdale",Florida,33304,1575,
+22611,for_sale,720000,2,2,NULL,808085,"Fort Lauderdale",Florida,33304,1345,
+98041,for_sale,565000,2,2,NULL,1327909,"Fort Lauderdale",Florida,33304,1308,40479
+98041,for_sale,500000,1,2,NULL,1327897,"Fort Lauderdale",Florida,33304,1028,39226
+53364,for_sale,850000,4,3,NULL,340783,"Fort Lauderdale",Florida,33304,2133,41869
+55789,for_sale,799900,2,2,NULL,872887,"Fort Lauderdale",Florida,33304,1497,43622
+16829,for_sale,1595000,3,4,NULL,863886,"Fort Lauderdale",Florida,33304,3221,40630
+35776,for_sale,975000,3,4,NULL,1701819,"Fort Lauderdale",Florida,33304,2411,43091
+98041,for_sale,550000,1,2,NULL,1327888,"Fort Lauderdale",Florida,33304,1028,40841
+58713,for_sale,724900,2,2,NULL,1799348,"Fort Lauderdale",Florida,33304,1500,42146
+57984,for_sale,585000,1,1,NULL,1327894,"Fort Lauderdale",Florida,33304,584,39069
+63886,for_sale,1300000,3,4,0.08,1520422,"Fort Lauderdale",Florida,33304,3035,41810
+16829,for_sale,750000,3,3,0.08,226186,"Fort Lauderdale",Florida,33304,1906,43937
+16829,for_sale,950000,3,3,0.17,1520421,"Fort Lauderdale",Florida,33304,1660,43950
+59682,for_sale,1499900,4,4,0.28,1606886,"Fort Lauderdale",Florida,33304,2203,41857
+57080,for_sale,1900000,2,3,NULL,1572337,"Fort Lauderdale",Florida,33304,1910,43739
+57984,for_sale,1611400,2,2,NULL,1327907,"Fort Lauderdale",Florida,33304,1308,39248
+64116,for_sale,1099900,2,2,NULL,959472,"Fort Lauderdale",Florida,33304,1176,44272
+57984,for_sale,800000,2,2,NULL,1327906,"Fort Lauderdale",Florida,33304,1308,39245
+53152,for_sale,788970,1,1,NULL,959468,"Fort Lauderdale",Florida,33304,709,42738
+16829,for_sale,2000000,3,4,NULL,1148519,"Fort Lauderdale",Florida,33304,2003,
+64116,for_sale,1220000,2,2,NULL,959463,"Fort Lauderdale",Florida,33304,1176,44494
+29015,for_sale,13900000,5,7,NULL,1364439,"Fort Lauderdale",Florida,33304,6185,
+29015,for_sale,5950000,3,5,NULL,1364430,"Fort Lauderdale",Florida,33304,2878,
+47463,for_sale,3595000,3,4,NULL,1785589,"Fort Lauderdale",Florida,33304,3196,44379
+29015,for_sale,2280000,3,3,NULL,1366875,"Fort Lauderdale",Florida,33304,1775,42814
+29015,for_sale,4700000,2,3,NULL,1364443,"Fort Lauderdale",Florida,33304,2230,
+29015,for_sale,4950000,2,3,NULL,1364437,"Fort Lauderdale",Florida,33304,2242,
+29015,for_sale,4950000,2,3,NULL,1364438,"Fort Lauderdale",Florida,33304,2242,
+29015,for_sale,2515000,3,3,NULL,1366874,"Fort Lauderdale",Florida,33304,2027,
+58713,for_sale,210000,1,1,NULL,1022617,"Fort Lauderdale",Florida,33308,800,44368
+58713,for_sale,269900,1,1,NULL,1013330,"Fort Lauderdale",Florida,33308,800,36229
+79946,for_sale,259900,2,2,NULL,1022618,"Fort Lauderdale",Florida,33308,1300,
+4341,for_sale,225000,1,1,NULL,1022623,"Fort Lauderdale",Florida,33308,800,35481
+25102,for_sale,265000,2,2,NULL,1984733,"Fort Lauderdale",Florida,33308,982,
+81010,for_sale,159500,1,1,NULL,1022627,"Fort Lauderdale",Florida,33308,800,38554
+20083,for_sale,8495000,7,9,0.34,1566657,"Sea Ranch Lakes",Florida,33308,7100,44379
+66355,for_sale,240000,1,1,NULL,1013337,"Fort Lauderdale",Florida,33308,800,
+22611,for_sale,565000,2,2,0.17,621783,"Fort Lauderdale",Florida,33308,1655,34866
+9880,for_sale,525000,2,2,0.16,679110,"Fort Lauderdale",Florida,33308,1115,44628
+8821,for_sale,829000,4,2,0.27,700160,"Fort Lauderdale",Florida,33308,2230,42822
+76280,for_sale,497900,3,2,NULL,767868,"Fort Lauderdale",Florida,33308,1560,
+20084,for_sale,399000,2,2,NULL,884174,"Fort Lauderdale",Florida,33308,1100,
+81619,for_sale,629900,2,3,NULL,1404063,"Lauderdale By The Sea",Florida,33308,2168,42732
+81010,for_sale,225000,1,1,NULL,998594,"Fort Lauderdale",Florida,33308,802,
+53152,for_sale,289900,1,1,NULL,776015,"Fort Lauderdale",Florida,33308,845,39078
+76280,for_sale,899900,2,2,NULL,1035131,"Fort Lauderdale",Florida,33308,1662,44337
+79946,for_sale,450000,2,2,NULL,850129,"Fort Lauderdale",Florida,33308,1200,39723
+57405,for_sale,219000,1,1,NULL,1022620,"Fort Lauderdale",Florida,33308,800,34919
+6275,for_sale,459000,2,2,NULL,1519647,"Fort Lauderdale",Florida,33308,1250,44417
+22666,for_sale,479900,2,2,NULL,988425,"Fort Lauderdale",Florida,33308,1290,38239
+76280,for_sale,539000,1,2,NULL,1042895,"Fort Lauderdale",Florida,33308,1112,42944
+22611,for_sale,1000000,2,2,NULL,1214537,"Fort Lauderdale",Florida,33308,1450,
+75776,for_sale,399000,2,2,NULL,884175,"Fort Lauderdale",Florida,33308,1100,40928
+59739,for_sale,1100000,2,2,NULL,1100076,"Fort Lauderdale",Florida,33308,1550,
+30807,for_sale,485000,2,2,NULL,884177,"Fort Lauderdale",Florida,33308,1100,41527
+25102,for_sale,920000,2,2,NULL,1984654,"Fort Lauderdale",Florida,33308,1650,43502
+29746,for_sale,550000,2,2,NULL,1338079,"Fort Lauderdale",Florida,33308,1130,39261
+98417,for_sale,539000,2,2,NULL,959686,"Fort Lauderdale",Florida,33308,1160,39518
+14714,for_sale,499000,2,2,NULL,854925,"Fort Lauderdale",Florida,33308,1200,44399
+70271,for_sale,1800000,4,4,NULL,812367,"Lauderdale By The Sea",Florida,33308,1698,42187
+2822,for_sale,1550000,3,4,NULL,940567,"Fort Lauderdale",Florida,33308,2140,44522
+15721,for_sale,505000,2,2,NULL,959182,"Fort Lauderdale",Florida,33308,1276,40765
+22611,for_sale,995000,2,2,NULL,1338172,"Lauderdale By The Sea",Florida,33308,1800,41946
+22611,for_sale,799999,2,2,NULL,1035130,"Fort Lauderdale",Florida,33308,1662,41149
+22666,for_sale,400000,1,2,NULL,988423,"Fort Lauderdale",Florida,33308,1023,43187
+72193,for_sale,1999900,3,3,NULL,988378,"Fort Lauderdale",Florida,33308,2102,43339
+87807,for_sale,499000,1,2,NULL,1152481,"Fort Lauderdale",Florida,33308,1166,43538
+14714,for_sale,429000,1,2,NULL,1090564,"Fort Lauderdale",Florida,33308,800,37383
+38016,for_sale,1060000,3,3,NULL,958937,"Fort Lauderdale",Florida,33308,2427,36712
+58478,for_sale,529000,1,1,NULL,,"Fort Lauderdale",Florida,33308,900,42527
+72193,for_sale,1299900,2,2,NULL,988377,"Fort Lauderdale",Florida,33308,1630,43382
+78109,for_sale,125000,3,1,0.11,1794621,"Fort Lauderdale",Florida,33311,998,
+68363,for_sale,110000,2,2,NULL,873192,"Lauderdale Lakes",Florida,33311,1010,36048
+22611,for_sale,90000,2,2,NULL,889132,"Lauderdale Lakes",Florida,33311,865,38744
+13954,for_sale,105500,2,2,NULL,886072,"Lauderdale Lakes",Florida,33311,1010,40568
+20084,for_sale,85000,2,2,NULL,873196,"Lauderdale Lakes",Florida,33311,1010,42713
+30807,for_sale,285000,3,3,NULL,359492,Lauderhill,Florida,33311,1294,39902
+81233,for_sale,92000,1,1,NULL,887727,"Lauderdale Lakes",Florida,33311,748,43859
+82244,for_sale,209900,3,1,0.14,1007747,Lauderhill,Florida,33311,1280,
+101467,for_sale,179900,3,3,NULL,1101386,"Lauderdale Lakes",Florida,33311,1144,40091
+53335,for_sale,265000,3,2,0.17,497397,"Fort Lauderdale",Florida,33311,1579,
+109089,for_sale,330000,3,3,NULL,1078678,"Lauderdale Lakes",Florida,33311,1470,43122
+57587,for_sale,240000,3,2,0.13,868255,"Fort Lauderdale",Florida,33311,1168,
+37134,for_sale,349000,4,3,0.23,850147,"Oakland Park",Florida,33311,1450,40421
+58713,for_sale,119900,1,1,NULL,1530415,"Oakland Park",Florida,33311,685,37974
+107497,for_sale,292500,3,3,NULL,912695,"Lauderdale Lakes",Florida,33311,1514,41880
+107497,for_sale,300000,3,3,NULL,912976,"Lauderdale Lakes",Florida,33311,1514,41880
+92181,for_sale,225000,2,1,0.08,929886,"Fort Lauderdale",Florida,33311,1030,37915
+30807,for_sale,269000,2,3,NULL,1056860,Lauderhill,Florida,33311,1120,
+107497,for_sale,292500,3,3,NULL,910590,"Lauderdale Lakes",Florida,33311,1514,41880
+103320,for_sale,74999,1,2,NULL,873193,"Lauderdale Lakes",Florida,33311,835,44473
+63698,for_sale,269990,3,1,0.18,408956,"Fort Lauderdale",Florida,33311,928,44609
+84926,for_sale,350000,3,2,0.13,1807490,"Fort Lauderdale",Florida,33311,1530,40490
+35658,for_sale,329000,3,2,0.15,898976,"Fort Lauderdale",Florida,33311,1241,44516
+80760,for_sale,250000,2,1,0.13,885090,"Fort Lauderdale",Florida,33311,866,44200
+57080,for_sale,325000,3,2,0.39,1569860,Lauderhill,Florida,33311,1122,42191
+18916,for_sale,139900,1,1,NULL,1510366,"Oakland Park",Florida,33311,685,37875
+20084,for_sale,328800,3,2,NULL,704302,"Fort Lauderdale",Florida,33311,1316,43789
+16829,for_sale,375000,4,2,0.18,1040909,Lauderhill,Florida,33311,1558,43955
+54230,for_sale,299000,3,1,0.18,,"Fort Lauderdale",Florida,33311,912,37544
+13291,for_sale,345000,3,2,0.17,1112042,Lauderhill,Florida,33311,1410,38047
+30807,for_sale,339000,3,2,0.15,1700649,Lauderhill,Florida,33311,1435,42262
+109639,for_sale,299894,3,2,0.14,510907,Lauderhill,Florida,33311,900,44615
+19810,for_sale,6500000,6,4,NULL,138154,"Fort Lauderdale",Florida,33311,2000,
+43164,for_sale,450000,5,4,NULL,49561,"Fort Lauderdale",Florida,33311,2131,44634
+20084,for_sale,545000,3,2,0.21,859665,"Wilton Manors",Florida,33311,1547,33960
+82102,for_sale,606999,4,2,0.23,707612,"Wilton Manors",Florida,33311,1365,44566
+51206,for_sale,392000,3,2,0.14,,"Fort Lauderdale",Florida,33311,1244,43490
+53335,for_sale,529999,3,1,0.16,1688751,"Fort Lauderdale",Florida,33305,1644,
+22611,for_sale,330000,2,2,NULL,578457,"Wilton Manors",Florida,33305,1180,44292
+20084,for_sale,300000,2,2,NULL,578458,"Wilton Manors",Florida,33305,1180,44160
+76459,for_sale,229900,1,2,NULL,556742,"Fort Lauderdale",Florida,33305,770,43588
+59692,for_sale,6800000,5,6,0.24,849625,"Fort Lauderdale",Florida,33305,4380,44218
+98991,for_sale,899000,5,5,0.16,611404,"Wilton Manors",Florida,33305,2495,
+11228,for_sale,385000,2,2,NULL,556767,"Fort Lauderdale",Florida,33305,1060,36103
+19535,for_sale,219000,1,1,NULL,333624,"Wilton Manors",Florida,33305,750,42293
+93224,for_sale,799000,4,2,0.29,1395514,"Wilton Manors",Florida,33305,1575,42460
+102235,for_sale,739000,2,3,NULL,534839,"Fort Lauderdale",Florida,33305,1788,37175
+8821,for_sale,798000,3,2,0.23,1384085,"Wilton Manors",Florida,33305,1548,39882
+58713,for_sale,489900,2,3,NULL,735601,"Fort Lauderdale",Florida,33305,1316,41745
+81010,for_sale,510000,2,3,NULL,1831772,"Fort Lauderdale",Florida,33305,1791,42277
+81010,for_sale,850000,3,2,0.14,769375,"Wilton Manors",Florida,33305,1255,42977
+43641,for_sale,299900,2,2,NULL,1273265,"Wilton Manors",Florida,33305,960,38160
+16829,for_sale,259000,1,1,NULL,192032,"Wilton Manors",Florida,33305,750,42076
+57007,for_sale,684000,2,2,NULL,615673,"Fort Lauderdale",Florida,33305,1359,43439
+36336,for_sale,16500000,5,6,NULL,699523,"Fort Lauderdale",Florida,33305,5000,
+58713,for_sale,1299999,3,3,0.22,493088,"Fort Lauderdale",Florida,33305,2258,33679
+20084,for_sale,950000,4,2,0.23,1381911,"Wilton Manors",Florida,33305,1798,42173
+22611,for_sale,2900000,2,2,0.2,739042,"Fort Lauderdale",Florida,33305,1488,44137
+47463,for_sale,1475000,3,4,0.2,703162,"Fort Lauderdale",Florida,33305,2325,
+22611,for_sale,1895000,2,3,NULL,699525,"Fort Lauderdale",Florida,33305,1824,
+81010,for_sale,1500000,3,2,0.22,469364,"Fort Lauderdale",Florida,33305,1862,42615
+39064,for_sale,2100000,5,4,NULL,575878,"Fort Lauderdale",Florida,33305,3244,
+2594,for_sale,1289000,2,3,NULL,657545,"Fort Lauderdale",Florida,33305,2172,36418
+58713,for_sale,1450000,4,3,NULL,706304,"Wilton Manors",Florida,33305,2330,41127
+22611,for_sale,5950000,4,6,NULL,699521,"Fort Lauderdale",Florida,33305,3422,44537
+81233,for_sale,1300000,4,3,0.22,875305,"Fort Lauderdale",Florida,33305,2161,36360
+22611,for_sale,2199000,4,3,0.23,882563,"Fort Lauderdale",Florida,33305,2806,42037
+22611,for_sale,1599000,5,3,NULL,578859,"Fort Lauderdale",Florida,33305,2631,37510
+28937,for_sale,4295000,4,6,NULL,657549,"Fort Lauderdale",Florida,33305,4112,41771
+28937,for_sale,1849000,3,3,NULL,657546,"Fort Lauderdale",Florida,33305,2623,36404
+16829,for_sale,3395000,5,5,0.22,806487,"Fort Lauderdale",Florida,33305,4488,43773
+102235,for_sale,6000000,6,6,0.39,573254,"Fort Lauderdale",Florida,33305,5573,44516
+28937,for_sale,1450000,3,4,NULL,663948,"Fort Lauderdale",Florida,33305,2130,37070
+79946,for_sale,3499000,4,3,0.2,710180,"Fort Lauderdale",Florida,33305,2702,39143
+84926,for_sale,5275000,4,6,NULL,699527,"Fort Lauderdale",Florida,33305,3422,
+88936,for_sale,280000,2,3,NULL,1079260,"Lauderdale Lakes",Florida,33311,1104,43375
+49455,for_sale,148000,2,2,NULL,1076553,"Lauderdale Lakes",Florida,33311,1100,44498
+53364,for_sale,250000,2,1,0.1,1702896,"Fort Lauderdale",Florida,33311,1221,44634
+53152,for_sale,82000,1,1,NULL,873671,"Lauderdale Lakes",Florida,33311,664,
+9177,for_sale,280000,2,3,NULL,1042312,Lauderhill,Florida,33311,1120,42285
+70271,for_sale,280000,3,3,NULL,935352,"Lauderdale Lakes",Florida,33311,1474,43216
+81010,for_sale,139900,1,1,NULL,1510367,"Oakland Park",Florida,33311,685,43629
+58713,for_sale,429900,4,2,0.21,235012,"Fort Lauderdale",Florida,33311,1830,40059
+48004,for_sale,469000,6,4,NULL,867854,"Fort Lauderdale",Florida,33311,1608,
+13955,for_sale,375000,5,2,0.14,978362,Lauderhill,Florida,33311,1415,44378
+48004,for_sale,399000,4,2,NULL,,"Fort Lauderdale",Florida,33311,1384,
+48904,for_sale,309900,3,3,NULL,1061642,"Lauderdale Lakes",Florida,33311,1514,
+9177,for_sale,290000,3,3,NULL,1041752,Lauderhill,Florida,33311,1260,42285
+35182,for_sale,779000,2,2,0.23,799297,"Wilton Manors",Florida,33311,1339,39968
+58713,for_sale,439900,2,3,NULL,1497907,"Fort Lauderdale",Florida,33311,1216,42072
+31855,for_sale,250000,3,1,0.19,1073851,Lauderhill,Florida,33311,912,
+58891,for_sale,449000,6,3,NULL,891617,"Fort Lauderdale",Florida,33311,2823,43805
+22611,for_sale,340000,3,2,0.16,203207,"Fort Lauderdale",Florida,33311,1384,38937
+87422,for_sale,535000,2,3,NULL,1578917,"Fort Lauderdale",Florida,33311,1408,38268
+31910,for_sale,230000,2,2,NULL,516426,"Fort Lauderdale",Florida,33311,975,40246
+17823,for_sale,285000,4,2,0.16,865326,"Fort Lauderdale",Florida,33311,1162,42200
+38825,for_sale,340000,3,2,0.15,621785,"Fort Lauderdale",Florida,33311,1248,42846
+56113,for_sale,650000,6,4,0.24,1610800,"Fort Lauderdale",Florida,33311,2832,33816
+73286,for_sale,330000,4,2,0.18,444104,"Fort Lauderdale",Florida,33311,1308,35625
+69436,for_sale,119000,1,1,NULL,1093215,"Lauderdale Lakes",Florida,33311,800,44301
+18810,for_sale,459900,5,2,0.15,461437,"Fort Lauderdale",Florida,33311,1736,37771
+102444,for_sale,349900,3,2,0.14,153397,"Fort Lauderdale",Florida,33311,929,44573
+53364,for_sale,139000,1,1,NULL,1539117,"Oakland Park",Florida,33311,685,44187
+90961,for_sale,309000,3,1,0.16,545416,Lauderhill,Florida,33311,1066,41886
+17137,for_sale,279900,2,1,0.18,1024290,Lauderhill,Florida,33311,874,44596
+6726,for_sale,549000,4,2,0.16,862708,"Wilton Manors",Florida,33311,1783,39898
+37788,for_sale,699900,3,3,0.19,1483366,"Wilton Manors",Florida,33311,1736,43854
+58713,for_sale,485000,3,1,0.15,403574,"Fort Lauderdale",Florida,33311,1174,43847
+39766,for_sale,315000,2,1,0.13,925470,"Fort Lauderdale",Florida,33311,992,44560
+107497,for_sale,555000,4,2,NULL,1325948,"Fort Lauderdale",Florida,33311,1522,44435
+54867,for_sale,1950000,18,12,NULL,,"Fort Lauderdale",Florida,33311,2748,43465
+107071,for_sale,5100000,14,14,NULL,682445,"Fort Lauderdale",Florida,33311,9423,
+51861,for_sale,152000,2,2,NULL,64919,Sunrise,Florida,33322,950,40960
+102638,for_sale,395000,3,3,0.03,1776007,Davie,Florida,33324,1488,43556
+57492,for_sale,450000,3,2,0.14,156335,Sunrise,Florida,33323,1412,36122
+3662,for_sale,935000,4,3,0.15,124649,Doral,Florida,33178,2325,
+56419,for_sale,65000,2,1,0.06,476818,Davie,Florida,33324,715,38068
+58713,for_sale,460000,4,3,0.05,1723528,Plantation,Florida,33324,1473,42373
+37701,for_sale,1050000,5,3,NULL,101922,Sweetwater,Florida,33174,3708,44153
+28970,for_sale,14000000,7,11,NULL,937318,Weston,Florida,33331,12323,41781
+81066,for_sale,345000,3,3,NULL,1396772,Sweetwater,Florida,33174,1173,39043
+101191,for_sale,415000,4,2,0.23,802450,"Miami Gardens",Florida,33056,1274,44405
+81619,for_sale,1100000,5,4,0.84,223552,Plantation,Florida,33323,3342,38666
+82104,for_sale,1295000,4,3,1.06,194928,Davie,Florida,33330,3062,
+35999,for_sale,949900,4,3,NULL,1092685,Davie,Florida,33328,2829,41862
+23573,for_sale,679000,4,3,NULL,395927,Weston,Florida,33326,2360,37443
+13955,for_sale,539000,2,2,NULL,607270,Sunrise,Florida,33323,1087,
+98991,for_sale,149900,2,2,0.07,1741145,Davie,Florida,33324,916,33547
+71360,for_sale,339000,4,2,0.17,640363,"Miami Gardens",Florida,33056,1410,
+35589,for_sale,425000,2,3,NULL,1026267,Sunrise,Florida,33323,1628,41348
+103320,for_sale,204900,2,1,NULL,141026,Sweetwater,Florida,33174,775,39393
+58713,for_sale,379500,2,2,0.17,169239,Sunrise,Florida,33323,1204,44595
+24160,for_sale,1250000,5,4,1.17,1411642,"Southwest Ranches",Florida,33331,3591,37287
+81233,for_sale,235900,2,2,0.07,1726418,Davie,Florida,33324,1013,33742
+82102,for_sale,200000,2,2,NULL,1729070,Davie,Florida,33328,920,41115
+103279,for_sale,800000,4,4,0.86,627405,Homestead,Florida,33030,3482,
+109212,for_sale,359000,3,2,0.17,647460,"Miami Gardens",Florida,33056,921,44538
+103320,for_sale,250000,2,1,NULL,582455,"Miami Gardens",Florida,33056,873,43336
+93025,for_sale,485000,3,2,0.08,239927,Miami,Florida,33184,1602,
+73184,for_sale,113200,2,2,0.1,631632,Davie,Florida,33324,1098,
+78482,for_sale,147777,2,2,NULL,784946,Sunrise,Florida,33322,950,42789
+71278,for_sale,460000,4,2,0.18,,Davie,Florida,33325,1452,44298
+58713,for_sale,2499000,5,4,1.25,946751,Davie,Florida,33330,3464,43801
+82102,for_sale,250000,2,2,NULL,,Weston,Florida,33326,1048,36395
+37687,for_sale,230000,2,1,NULL,278756,Sunrise,Florida,33325,965,42950
+57984,for_sale,350000,3,2,0.05,172281,Sweetwater,Florida,33174,1173,37799
+509,for_sale,1445000,5,3,0.23,816137,Weston,Florida,33327,2937,44400
+36174,for_sale,460000,2,2,NULL,607283,Sunrise,Florida,33323,1050,44140
+103321,for_sale,315000,2,2,NULL,448514,Weston,Florida,33331,1193,41855
+103320,for_sale,385000,2,2,NULL,355178,Weston,Florida,33327,969,44614
+58708,for_sale,539000,4,3,0.1,88146,Plantation,Florida,33322,1884,41438
+46020,for_sale,255000,2,2,NULL,,Sunrise,Florida,33351,986,43357
+35944,for_sale,430000,3,2,0.05,,Sweetwater,Florida,33174,1108,43074
+52809,for_sale,1450000,4,4,0.82,401062,Davie,Florida,33331,3572,43278
+10991,for_sale,1099900,6,3,NULL,,Sweetwater,Florida,33174,1896,38938
+58713,for_sale,179900,2,1,NULL,121364,Sweetwater,Florida,33174,775,39617
+81052,for_sale,89900,1,1,NULL,72890,Sunrise,Florida,33322,630,43290
+100882,for_sale,1790000,4,2,3.25,1527307,"Southwest Ranches",Florida,33330,2936,44564
+97227,for_sale,325000,2,2,0.14,156336,Sunrise,Florida,33323,923,34439
+22611,for_sale,300000,3,3,NULL,1655053,Sunrise,Florida,33325,1285,38548
+90569,for_sale,125000,2,2,0.06,1736822,Davie,Florida,33324,832,35794
+103321,for_sale,320000,2,2,NULL,837311,Sunrise,Florida,33323,1165,41943
+71997,for_sale,300000,2,2,NULL,1691972,Tamarac,Florida,33321,1110,40267
+78224,for_sale,299000,2,2,NULL,1171232,Weston,Florida,33326,1225,41823
+30807,for_sale,2050000,4,3,1.17,1247524,"Southwest Ranches",Florida,33330,3052,43159
+54233,for_sale,179000,2,2,NULL,103165,Tamarac,Florida,33321,1222,42661
+2635,for_sale,599000,3,2,0.13,1452881,Davie,Florida,33325,1548,40918
+31163,for_sale,428900,2,2,NULL,607286,Sunrise,Florida,33323,1026,44153
+23573,for_sale,2999000,7,5,1.69,128668,Davie,Florida,33324,6081,43188
+82907,for_sale,145000,2,2,NULL,73470,Sunrise,Florida,33322,1092,36875
+73742,for_sale,360000,3,3,NULL,837317,Sunrise,Florida,33323,1546,44243
+100465,for_sale,840000,3,2,0.81,1243791,Davie,Florida,33328,1939,33309
+55981,for_sale,1075000,7,4,0.18,89887,Weston,Florida,33327,3293,38380
+23784,for_sale,1997000,4,3,1.8,497584,"Southwest Ranches",Florida,33331,3074,44007
+16829,for_sale,1950000,5,4,0.92,308120,Miami,Florida,33184,3017,43739
+74549,for_sale,95000,1,2,NULL,,Sunrise,Florida,33322,750,36189
+103320,for_sale,400000,4,2,0.18,868084,"Miami Gardens",Florida,33056,1104,
+70250,for_sale,360000,3,3,NULL,702469,"Pembroke Pines",Florida,33028,1263,35871
+50170,for_sale,7500000,9,14,4.62,1408595,"Southwest Ranches",Florida,33330,18923,40218
+23784,for_sale,1650000,5,4,0.98,1168659,Davie,Florida,33330,3976,36913
+46324,for_sale,290600,3,2,0.2,825087,"Miami Gardens",Florida,33056,1352,
+40897,for_sale,345000,2,2,NULL,902582,Sunrise,Florida,33323,1174,41992
+103320,for_sale,389999,3,1,0.19,700163,"Miami Gardens",Florida,33056,1154,44544
+76696,for_sale,2850000,5,6,0.75,411299,Davie,Florida,33326,5058,
+97535,for_sale,148000,2,2,NULL,64753,Sunrise,Florida,33322,1130,34752
+50737,for_sale,120000,2,2,NULL,,Tamarac,Florida,33321,827,41396
+35977,for_sale,275000,3,1,0.27,1026807,"Miami Gardens",Florida,33056,1012,
+81774,for_sale,390000,3,3,NULL,146002,"Cooper City",Florida,33330,1377,43629
+75776,for_sale,288000,1,2,NULL,844220,Sunrise,Florida,33323,1000,42734
+52809,for_sale,679900,4,2,0.23,1827034,"Pembroke Pines",Florida,33028,2332,36997
+73184,for_sale,149900,2,2,0.1,,Davie,Florida,33324,720,42397
+81233,for_sale,149700,2,2,NULL,1824221,Sunrise,Florida,33322,1025,35893
+22611,for_sale,745000,3,2,0.18,74072,Weston,Florida,33326,2135,35020
+104232,for_sale,495000,4,2,0.11,1812176,Miami,Florida,33184,1796,
+52809,for_sale,325000,2,2,NULL,1635284,Tamarac,Florida,33321,1772,42433
+70609,for_sale,163000,2,2,NULL,70263,Sunrise,Florida,33322,850,35664
+103321,for_sale,200000,2,2,NULL,41376,Sunrise,Florida,33322,1420,39196
+92755,for_sale,450000,3,3,NULL,1787102,"Pembroke Pines",Florida,33028,1672,36710
+58713,for_sale,574700,4,4,NULL,240424,"Pembroke Pines",Florida,33028,2339,
+80523,for_sale,570000,4,2,NULL,133861,Sweetwater,Florida,33174,1152,36138
+35944,for_sale,649000,5,3,NULL,126344,Sweetwater,Florida,33174,1890,44508
+17823,for_sale,950000,4,3,0.86,355431,Davie,Florida,33325,2436,42612
+97035,for_sale,849900,4,3,0.23,1702402,Davie,Florida,33328,2359,38819
+103320,for_sale,214900,2,2,NULL,1829578,Sunrise,Florida,33351,840,35878
+28937,for_sale,689000,3,3,0.11,828155,Plantation,Florida,33324,2442,39385
+52654,for_sale,825000,3,3,0.26,475180,Weston,Florida,33326,2554,37623
+19010,for_sale,395000,3,2,NULL,627671,"Miami Gardens",Florida,33056,1290,
+62060,for_sale,199000,2,2,NULL,26868,Sunrise,Florida,33351,760,42776
+69938,for_sale,215000,2,2,NULL,488821,Davie,Florida,33324,1385,41506
+30807,for_sale,469000,4,3,NULL,175975,Doral,Florida,33178,1894,43747
+92346,for_sale,529000,4,2,0.17,87109,Sunrise,Florida,33322,1754,33381
+50170,for_sale,1600000,4,3,2.49,362191,"Southwest Ranches",Florida,33330,2013,43446
+81616,for_sale,1100000,4,3,0.81,347065,Davie,Florida,33330,2887,41526
+30807,for_sale,349900,4,2,0.17,551863,"Miami Gardens",Florida,33056,1360,
+78224,for_sale,2799000,5,5,2.45,303493,"Southwest Ranches",Florida,33330,5362,39363
+35751,for_sale,550000,3,2,0.12,,Plantation,Florida,33322,1572,42734
+35944,for_sale,875000,8,7,NULL,125390,Sweetwater,Florida,33174,4312,44448
+22611,for_sale,338000,3,2,NULL,844224,Plantation,Florida,33323,1350,43074
+67271,for_sale,549900,4,2,0.16,1325946,Plantation,Florida,33324,2020,43642
+25677,for_sale,79900,1,2,NULL,1827341,Sunrise,Florida,33322,746,36930
+52577,for_sale,199900,2,2,NULL,810787,Sunrise,Florida,33322,1420,38366
+103320,for_sale,760000,4,3,0.14,149473,Weston,Florida,33327,2669,36285
+76589,for_sale,450000,3,3,0.05,1742880,Plantation,Florida,33324,1473,41900
+36338,for_sale,1220000,6,4,0.17,1735324,Weston,Florida,33327,3292,37538
+13955,for_sale,1050000,4,3,0.27,,Weston,Florida,33327,2716,39160
+9556,for_sale,175000,2,2,NULL,1795930,Davie,Florida,33324,970,34466
+64085,for_sale,255900,2,2,NULL,201058,Weston,Florida,33326,1106,38765
+20084,for_sale,349900,3,3,NULL,1043799,Miami,Florida,33165,1310,44567
+64127,for_sale,9480000,6,10,1.97,1557693,"Southwest Ranches",Florida,33330,11700,42227
+76706,for_sale,575000,3,2,0.15,360346,Sunrise,Florida,33323,1703,38070
+31163,for_sale,439000,2,2,NULL,607370,Sunrise,Florida,33323,990,44153
+22794,for_sale,1050000,5,4,0.25,1642665,Weston,Florida,33326,2800,40403
+33808,for_sale,589900,5,3,0.18,1379147,Miami,Florida,33165,1596,
+25677,for_sale,210000,2,2,NULL,826777,Sunrise,Florida,33322,1418,41515
+43951,for_sale,435000,3,2,0.17,,Sunrise,Florida,33322,1641,43881
+57984,for_sale,450000,4,3,0.05,170530,Sweetwater,Florida,33174,1842,
+75769,for_sale,580000,3,2,0.11,299370,Weston,Florida,33327,1533,36496
+28593,for_sale,265000,2,2,NULL,1830383,Plantation,Florida,33324,903,43830
+87406,for_sale,898000,5,4,0.17,477302,Weston,Florida,33327,3051,43385
+52577,for_sale,239999,2,2,NULL,1120132,Weston,Florida,33326,1231,
+81233,for_sale,1225000,3,2,1.25,1046631,Davie,Florida,33330,2979,43035
+64101,for_sale,335000,3,2,0.17,949008,"Miami Gardens",Florida,33056,1455,
+14716,for_sale,479000,3,3,NULL,1824790,"Cooper City",Florida,33328,2366,39475
+71079,for_sale,480000,4,3,NULL,432764,Weston,Florida,33327,1728,40882
+40222,for_sale,2099000,6,6,0.95,71786,Davie,Florida,33328,5033,40353
+85052,for_sale,1125000,6,4,0.17,1617475,Weston,Florida,33327,3122,40612
+54234,for_sale,850000,5,3,0.2,585487,Weston,Florida,33326,2536,43041
+92015,for_sale,1088800,4,3,0.23,294625,"Cooper City",Florida,33330,2691,41806
+58713,for_sale,75000,1,1,NULL,,Sunrise,Florida,33322,640,32660
+52577,for_sale,140000,2,2,NULL,1819695,Sunrise,Florida,33322,850,41302
+16829,for_sale,3600000,6,7,1,260572,Plantation,Florida,33324,6679,
+106471,for_sale,2100000,5,2,NULL,360442,"Southwest Ranches",Florida,33330,3927,
+23436,for_sale,634990,3,2,0.2,194926,"Cooper City",Florida,33330,1731,37343
+9880,for_sale,744900,4,3,0.2,1537951,"Pembroke Pines",Florida,33332,2702,43161
+64123,for_sale,315000,2,2,NULL,288316,Miami,Florida,33184,1463,40527
+83988,for_sale,720000,4,4,0.17,1183074,Miami,Florida,33165,2143,43746
+8799,for_sale,500000,3,2,0.17,156871,Miami,Florida,33165,1381,39735
+50170,for_sale,289000,2,2,NULL,1750249,Miami,Florida,33186,1200,
+107071,for_sale,299998,2,2,NULL,1754688,Miami,Florida,33186,921,42873
+77159,for_sale,475000,3,2,0.1,1695178,Miami,Florida,33193,1815,
+49133,for_sale,799000,4,3,0.27,81682,Weston,Florida,33326,2511,38170
+43819,for_sale,229900,2,2,NULL,827066,Sunrise,Florida,33322,1370,43649
+104365,for_sale,450000,3,2,0.15,163843,Sunrise,Florida,33323,1422,33546
+53152,for_sale,779000,5,3,0.13,182079,Plantation,Florida,33325,2766,38019
+22794,for_sale,975000,4,3,0.21,1712428,Weston,Florida,33326,2400,33596
+75769,for_sale,133900,2,2,NULL,73947,Sunrise,Florida,33322,793,44361
+77159,for_sale,378700,3,3,NULL,1716551,Miami,Florida,33193,1576,
+105309,for_sale,715710,4,2,0.23,573142,"Pembroke Pines",Florida,33332,2835,38696
+24150,for_sale,549000,3,2,0.12,1824213,Plantation,Florida,33322,1845,44126
+90569,for_sale,560000,4,2,0.17,1403832,"Cooper City",Florida,33328,1665,39311
+96571,for_sale,1250000,4,3,0.31,78934,Weston,Florida,33326,2550,37475
+57080,for_sale,1415000,5,4,0.93,1317206,"Southwest Ranches",Florida,33332,2940,39436
+34015,for_sale,2299000,4,7,0.36,1301718,Plantation,Florida,33324,5058,38855
+57984,for_sale,520000,4,2,0.17,149874,Miami,Florida,33165,1692,40864
+56811,for_sale,1749000,4,4,0.88,459306,"Southwest Ranches",Florida,33331,3671,44322
+54220,for_sale,155000,2,2,NULL,1824220,Sunrise,Florida,33322,1025,36942
+60886,for_sale,339000,3,2,NULL,1827394,Plantation,Florida,33324,1410,38778
+103321,for_sale,250000,2,2,NULL,,Sunrise,Florida,33326,800,41913
+67008,for_sale,850000,4,3,0.21,622824,"Pembroke Pines",Florida,33028,2830,39917
+103320,for_sale,159900,2,2,NULL,64918,Sunrise,Florida,33322,1130,39938
+46816,for_sale,350000,3,2,0.17,97421,Sunrise,Florida,33322,1561,32962
+20083,for_sale,149900,1,2,NULL,1807160,Davie,Florida,33324,940,43109
+75660,for_sale,165000,1,1,NULL,406001,Miami,Florida,33193,676,
+23289,for_sale,285000,3,2,NULL,383190,Miami,Florida,33193,1260,
+103321,for_sale,464000,3,3,NULL,327374,Davie,Florida,33325,1541,
+22794,for_sale,169000,2,2,NULL,851072,Sunrise,Florida,33322,1404,42486
+19781,for_sale,410000,3,3,NULL,1822884,Plantation,Florida,33324,2170,42954
+79194,for_sale,149900,2,2,NULL,65683,Sunrise,Florida,33322,1050,39836
+69938,for_sale,215000,2,2,NULL,488822,Davie,Florida,33324,1385,41506
+75340,for_sale,1515900,3,4,NULL,607288,Sunrise,Florida,33323,1635,
+75340,for_sale,1790900,3,4,NULL,607290,Sunrise,Florida,33323,1588,
+5947,for_sale,248900,2,2,NULL,1624673,Miami,Florida,33193,760,
+22611,for_sale,505000,3,3,NULL,,Sunrise,Florida,33323,1546,44277
+59663,for_sale,475000,3,2,0.04,445424,Miami,Florida,33193,1790,
+107304,for_sale,450000,3,2,0.14,156863,Sunrise,Florida,33323,1479,44537
+11055,for_sale,825000,4,3,0.27,1453261,Plantation,Florida,33324,2686,40183
+52577,for_sale,599000,4,2,0.18,1340746,"Cooper City",Florida,33328,1945,38729
+58713,for_sale,1499000,5,3,0.85,1104396,Davie,Florida,33328,3372,43915
+18133,for_sale,205000,3,2,NULL,1623208,Miami,Florida,33193,994,43749
+103320,for_sale,399000,3,2,0.17,542542,"Miami Gardens",Florida,33056,1799,
+65772,for_sale,830000,5,4,0.14,435054,Miami,Florida,33193,3267,44166
+52577,for_sale,435000,3,2,0.2,178170,Sunrise,Florida,33323,1193,38625
+5924,for_sale,489900,3,2,0.14,178466,Sunrise,Florida,33323,1527,38021
+103321,for_sale,649000,3,2,0.11,755653,Weston,Florida,33326,1899,
+53152,for_sale,2200000,6,6,0.81,875030,Davie,Florida,33330,4296,41472
+14624,for_sale,590000,4,3,0.08,1813648,Weston,Florida,33326,1685,34205
+53335,for_sale,274900,2,2,NULL,670276,Davie,Florida,33324,1380,
+11228,for_sale,99900,2,2,NULL,73946,Sunrise,Florida,33322,793,
+98623,for_sale,1275000,4,3,1.12,1295814,"Southwest Ranches",Florida,33332,2920,38281
+30976,for_sale,272000,2,2,NULL,1658406,Tamarac,Florida,33321,1110,40669
+35745,for_sale,260000,3,1,NULL,886933,"Miami Gardens",Florida,33056,999,
+52978,for_sale,220000,1,2,NULL,201057,Weston,Florida,33326,820,41038
+61425,for_sale,575000,3,2,0.1,354935,Weston,Florida,33327,1420,44186
+40897,for_sale,345000,2,2,NULL,895852,Sunrise,Florida,33323,1174,39301
+23736,for_sale,83000,1,2,NULL,1830953,Sunrise,Florida,33322,746,37538
+44249,for_sale,125900,2,2,NULL,38032,Sunrise,Florida,33322,952,39965
+22611,for_sale,193500,1,1,NULL,425964,Miami,Florida,33193,689,44189
+40676,for_sale,180000,2,2,NULL,50399,Sunrise,Florida,33322,1245,
+54242,for_sale,215000,2,2,NULL,1807159,Davie,Florida,33324,1100,42667
+71219,for_sale,219000,2,2,NULL,407155,Miami,Florida,33193,877,38684
+42102,for_sale,510000,4,3,NULL,286491,Weston,Florida,33327,1792,44644
+73753,for_sale,780000,4,4,NULL,910589,Sunrise,Florida,33323,2942,
+103321,for_sale,1725000,5,4,0.51,1743527,Weston,Florida,33327,3919,44118
+53152,for_sale,140000,2,2,NULL,868427,Sunrise,Florida,33322,860,41772
+740,for_sale,595500,3,2,0.2,171028,"Cooper City",Florida,33330,1834,38098
+81969,for_sale,624000,4,2,0.19,,"Pembroke Pines",Florida,33028,2172,36644
+85994,for_sale,485000,4,3,0.08,324608,Davie,Florida,33325,1541,43598
+38781,for_sale,1999000,5,6,0.49,1026187,Davie,Florida,33330,4663,38244
+35880,for_sale,154900,1,2,NULL,1124294,Sunrise,Florida,33351,884,43830
+38825,for_sale,320000,2,2,NULL,218690,Sunrise,Florida,33323,1185,43718
+107461,for_sale,450000,2,3,NULL,461560,Weston,Florida,33326,2234,41318
+54242,for_sale,1165000,5,3,1,336199,Davie,Florida,33325,2805,37280
+76192,for_sale,789000,4,3,0.17,551862,"Pembroke Pines",Florida,33028,2149,44523
+7341,for_sale,725000,5,3,NULL,149827,Sweetwater,Florida,33174,1915,32603
+46805,for_sale,390000,3,3,NULL,837310,Sunrise,Florida,33323,1570,
+109138,for_sale,1001000,6,6,1.94,,"Southwest Ranches",Florida,33330,4786,37852
+30807,for_sale,1650000,6,4,2.5,1388413,"Southwest Ranches",Florida,33332,4052,42258
+58713,for_sale,1888000,5,4,0.81,1101921,Davie,Florida,33328,3372,37580
+22611,for_sale,1350000,5,3,0.26,1774347,Plantation,Florida,33324,2880,42779
+57080,for_sale,412900,3,2,0.14,164690,Sunrise,Florida,33323,1785,44565
+22611,for_sale,379000,3,2,NULL,844221,Sunrise,Florida,33323,1271,44320
+76192,for_sale,750000,4,4,0.12,298757,Weston,Florida,33327,2088,42159
+98516,for_sale,560000,3,2,0.2,710188,Sunrise,Florida,33323,1716,38919
+2594,for_sale,674900,4,3,0.18,240907,Plantation,Florida,33325,2380,43026
+34990,for_sale,94500,1,1,NULL,1984515,Sunrise,Florida,33322,570,33282
+100882,for_sale,459000,3,2,0.17,873079,Sunrise,Florida,33322,1492,43259
+2848,for_sale,585000,3,2,0.17,50181,"Cooper City",Florida,33328,1641,34129
+77190,for_sale,2400000,4,6,0.36,897589,Weston,Florida,33332,4508,43747
+76695,for_sale,929700,4,3,0.35,45972,Plantation,Florida,33324,2926,43481
+7319,for_sale,145000,2,2,NULL,42228,Sunrise,Florida,33322,1110,41038
+54242,for_sale,700000,4,3,0.16,155558,Weston,Florida,33327,1968,38069
+22794,for_sale,1050000,4,4,0.18,183973,Weston,Florida,33326,2700,37443
+107423,for_sale,2500000,6,6,0.28,487254,Weston,Florida,33327,4829,43453
+84534,for_sale,465000,2,2,0.07,377121,Weston,Florida,33326,971,44048
+22611,for_sale,1095000,5,4,0.2,1814066,Weston,Florida,33327,4094,37918
+87756,for_sale,168000,2,2,NULL,45325,Sunrise,Florida,33322,850,41967
+95220,for_sale,169900,2,2,NULL,1811675,Sunrise,Florida,33322,1025,42097
